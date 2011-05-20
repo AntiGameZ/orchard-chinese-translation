@@ -6,410 +6,410 @@
 #: ~/Modules/Orchard.ContentTypes/Module.txt
 #| msgid "Author"
 msgid "The Orchard Team"
-msgstr ""
+msgstr "Orchard 团队"
 
 #: ~/Modules/Orchard.ContentTypes/Module.txt
 #| msgid "Website"
 msgid "http://orchardproject.net"
-msgstr ""
+msgstr "http://orchardproject.net"
 
 #: Orchard.ContentTypes.AdminMenu
 #| msgid "Content"
 msgid "Content"
-msgstr ""
+msgstr "内容"
 
 #: Orchard.ContentTypes.AdminMenu
 #| msgid "Content Types"
 msgid "Content Types"
-msgstr ""
+msgstr "内容类型"
 
 #: Orchard.ContentTypes.Controllers.AdminController
 #| msgid "Not allowed to create a content type."
 msgid "Not allowed to create a content type."
-msgstr ""
+msgstr "不允许创建内容类型"
 
 #: Orchard.ContentTypes.Controllers.AdminController
 #| msgid "The Display Name name can't be empty."
 msgid "The Display Name name can't be empty."
-msgstr ""
+msgstr "显示名称不能为空。"
 
 #: Orchard.ContentTypes.Controllers.AdminController
 #| msgid "A type with the same Id already exists."
 msgid "A type with the same Id already exists."
-msgstr ""
+msgstr "具有相同 Id 的类型已经存在。"
 
 #: Orchard.ContentTypes.Controllers.AdminController
 #| msgid "A type with the same Name already exists."
 msgid "A type with the same Name already exists."
-msgstr ""
+msgstr "具有相同名称的类型已经存在。"
 
 #: Orchard.ContentTypes.Controllers.AdminController
 #| msgid "The \"{0}\" content type has been created."
 msgid "The \"{0}\" content type has been created."
-msgstr ""
+msgstr "内容类型“{0}”已经创建。"
 
 #: Orchard.ContentTypes.Controllers.AdminController
 #| msgid "Not allowed to edit a content type."
 msgid "Not allowed to edit a content type."
-msgstr ""
+msgstr "不允许编辑内容类型。"
 
 #: Orchard.ContentTypes.Controllers.AdminController
 #| msgid "The Content Type name can't be empty."
 msgid "The Content Type name can't be empty."
-msgstr ""
+msgstr "内容类型名称不能为空。"
 
 #: Orchard.ContentTypes.Controllers.AdminController
 #| msgid "\"{0}\" settings have been saved."
 msgid "\"{0}\" settings have been saved."
-msgstr ""
+msgstr "“{0}”的设置已经保存。"
 
 #: Orchard.ContentTypes.Controllers.AdminController
 #| msgid "The \"{0}\" part has been added."
 msgid "The \"{0}\" part has been added."
-msgstr ""
+msgstr "部件“{0}”已经添加。"
 
 #: Orchard.ContentTypes.Controllers.AdminController
 #| msgid "The \"{0}\" part has been removed."
 msgid "The \"{0}\" part has been removed."
-msgstr ""
+msgstr "部件“{0}”已经移除。"
 
 #: Orchard.ContentTypes.Controllers.AdminController
 #| msgid "Not allowed to create a content part."
 msgid "Not allowed to create a content part."
-msgstr ""
+msgstr "不允许创建内容部件。"
 
 #: Orchard.ContentTypes.Controllers.AdminController
 #| msgid "The content part could not be created."
 msgid "The content part could not be created."
-msgstr ""
+msgstr "此内容部件未能创建。"
 
 #: Orchard.ContentTypes.Controllers.AdminController
 #| msgid "The \"{0}\" content part has been created."
 msgid "The \"{0}\" content part has been created."
-msgstr ""
+msgstr "部件“{0}”已经创建。"
 
 #: Orchard.ContentTypes.Controllers.AdminController
 #| msgid "Not allowed to edit a content part."
 msgid "Not allowed to edit a content part."
-msgstr ""
+msgstr "不允许编辑内容部件。"
 
 #: Orchard.ContentTypes.Controllers.AdminController
 #| msgid "The \"{0}\" field was not added. {1}"
 msgid "The \"{0}\" field was not added. {1}"
-msgstr ""
+msgstr "字段“{0}”未能添加。{1}"
 
 #: Orchard.ContentTypes.Controllers.AdminController
 #| msgid "The \"{0}\" field has been added."
 msgid "The \"{0}\" field has been added."
-msgstr ""
+msgstr "字段“{0}”已经添加。"
 
 #: Orchard.ContentTypes.Controllers.AdminController
 #| msgid "The \"{0}\" field has been removed."
 msgid "The \"{0}\" field has been removed."
-msgstr ""
+msgstr "字段“{0}”已经移除。"
 
 #: Orchard.ContentTypes.Services.ContentDefinitionService
 #| msgid "Fields must have a name containing no spaces or symbols."
 msgid "Fields must have a name containing no spaces or symbols."
-msgstr ""
+msgstr "字段名称内不能包含空格和符号。"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/AddFieldTo.cshtml
 #| msgid "Add New Field To \"{0}\""
 msgid "Add New Field To \"{0}\""
-msgstr ""
+msgstr "为“{0}”添加新字段"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/AddFieldTo.cshtml
 #| msgid "Name"
 msgid "Name"
-msgstr ""
+msgstr "名称"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/AddFieldTo.cshtml
 #| msgid "Use no spaces or special characters. For example, \"MyCustomField\""
 msgid "Use no spaces or special characters. For example, \"MyCustomField\""
-msgstr ""
+msgstr "请勿包含空格或特殊字符。例如：“MyCustomField”"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/AddFieldTo.cshtml
 #| msgid "Field Type"
 msgid "Field Type"
-msgstr ""
+msgstr "字段类型"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/AddFieldTo.cshtml
 #| msgid "Save"
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/AddPartsTo.cshtml
 #| msgid "Add Parts To \"{0}\""
 msgid "Add Parts To \"{0}\""
-msgstr ""
+msgstr "为“{0}”添加部件"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/AddPartsTo.cshtml
 #| msgid "Save"
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/Create.cshtml
 #| msgid "New Content Type"
 msgid "New Content Type"
-msgstr ""
+msgstr "信件内容类型"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/Create.cshtml
 #| msgid "Display Name"
 msgid "Display Name"
-msgstr ""
+msgstr "显示名称"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/Create.cshtml
 #| msgid "Content Type Id"
 msgid "Content Type Id"
-msgstr ""
+msgstr "内容类型 Id"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/Create.cshtml
 #| msgid "Create"
 msgid "Create"
-msgstr ""
+msgstr "创建"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/CreatePart.cshtml
 #| msgid "New Content Part"
 msgid "New Content Part"
-msgstr ""
+msgstr "新建内容部件"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/CreatePart.cshtml
 #| msgid "Name"
 msgid "Name"
-msgstr ""
+msgstr "名称"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/CreatePart.cshtml
 #| msgid "Use no spaces or special characters. For example, \"MyCustomPart\""
 msgid "Use no spaces or special characters. For example, \"MyCustomPart\""
-msgstr ""
+msgstr "请勿包含空格或特殊字符。例如：“MyCustomField”"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/CreatePart.cshtml
 #| msgid "Create"
 msgid "Create"
-msgstr ""
+msgstr "创建"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/Edit.cshtml
 #| msgid "Edit Content Type"
 msgid "Edit Content Type"
-msgstr ""
+msgstr "编辑内容类型"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/Edit.cshtml
 #| msgid "Content Types"
 msgid "Content Types"
-msgstr ""
+msgstr "内容类型"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/Edit.cshtml
 #| msgid " &#62; "
 msgid " &#62; "
-msgstr ""
+msgstr " &#62; "
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/Edit.cshtml
 #| msgid "Display Name"
 msgid "Display Name"
-msgstr ""
+msgstr "显示名称"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/Edit.cshtml
 #| msgid "Content Type Id: {0}"
 msgid "Content Type Id: {0}"
-msgstr ""
+msgstr "内容类型 Id： {0}"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/Edit.cshtml
 #| msgid "Fields"
 msgid "Fields"
-msgstr ""
+msgstr "字段"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/Edit.cshtml
 #| msgid "Parts"
 msgid "Parts"
-msgstr ""
+msgstr "部件"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/Edit.cshtml
 #| msgid "Save"
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/EditPart.cshtml
 #| msgid "Edit Part"
 msgid "Edit Part"
-msgstr ""
+msgstr "编辑部件"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/EditPart.cshtml
 #| msgid "Content Types"
 msgid "Content Types"
-msgstr ""
+msgstr "内容类型"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/EditPart.cshtml
 #| msgid " &#62; "
 msgid " &#62; "
-msgstr ""
+msgstr " &#62; "
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/EditPart.cshtml
 #| msgid "Content Parts"
 msgid "Content Parts"
-msgstr ""
+msgstr "内容部件"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/EditPart.cshtml
 #| msgid "Name"
 msgid "Name"
-msgstr ""
+msgstr "名称"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/EditPart.cshtml
 #| msgid "Fields"
 msgid "Fields"
-msgstr ""
+msgstr "字段"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/EditPart.cshtml
 #| msgid "Add"
 msgid "Add"
-msgstr ""
+msgstr "添加"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/EditPart.cshtml
 #| msgid "Save"
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/List.cshtml
 #| msgid "Manage Content Types"
 msgid "Manage Content Types"
-msgstr ""
+msgstr "管理内容类型"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/List.cshtml
 #| msgid "Create new type"
 msgid "Create new type"
-msgstr ""
+msgstr "创建新类型"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/List.cshtml
 #| msgid "Content Parts"
 msgid "Content Parts"
-msgstr ""
+msgstr "内容部件"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/ListParts.cshtml
 #| msgid "Content Parts"
 msgid "Content Parts"
-msgstr ""
+msgstr "内容部件"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/ListParts.cshtml
 #| msgid "Content Types"
 msgid "Content Types"
-msgstr ""
+msgstr "内容类型"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/ListParts.cshtml
 #| msgid " &#62; "
 msgid " &#62; "
-msgstr ""
+msgstr " &#62; "
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/ListParts.cshtml
 #| msgid "Create new part"
 msgid "Create new part"
-msgstr ""
+msgstr "创建新部件"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/RemoveFieldFrom.cshtml
 #| msgid "Remove the \"{0}\" part from  \"{1}\""
 msgid "Remove the \"{0}\" part from  \"{1}\""
-msgstr ""
+msgstr "从“{1}”中移除“{0}”"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/RemoveFieldFrom.cshtml
 #| msgid "Looks like you couldn't use the fancy way to remove the field. Try hitting the button below to force the issue."
 msgid "Looks like you couldn't use the fancy way to remove the field. Try hitting the button below to force the issue."
-msgstr ""
+msgstr "常规移除操作失败。尝试点击下面的按键强制移除。"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/RemoveFieldFrom.cshtml
 #| msgid "Remove"
 msgid "Remove"
-msgstr ""
+msgstr "移除"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/RemovePartFrom.cshtml
 #| msgid "Remove the \"{0}\" part from  \"{1}\""
 msgid "Remove the \"{0}\" part from  \"{1}\""
-msgstr ""
+msgstr "从“{1}”中移除“{0}”"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/RemovePartFrom.cshtml
 #| msgid "Looks like you couldn't use the fancy way to remove the part. Try hitting the button below to force the issue."
 msgid "Looks like you couldn't use the fancy way to remove the part. Try hitting the button below to force the issue."
-msgstr ""
+msgstr "常规移除操作失败。尝试点击下面的按键强制移除。"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/RemovePartFrom.cshtml
 #| msgid "Remove"
 msgid "Remove"
-msgstr ""
+msgstr "移除"
 
 #: ~/Modules/Orchard.ContentTypes/Views/DisplayTemplates/EditPartViewModel.cshtml
 #| msgid "Edit"
 msgid "Edit"
-msgstr ""
+msgstr "编辑"
 
 #: ~/Modules/Orchard.ContentTypes/Views/DisplayTemplates/EditTypeViewModel.cshtml
 #| msgid "Create New {0}"
 msgid "Create New {0}"
-msgstr ""
+msgstr "创建新{0}"
 
 #: ~/Modules/Orchard.ContentTypes/Views/DisplayTemplates/EditTypeViewModel.cshtml
 #| msgid "List Items"
 msgid "List Items"
-msgstr ""
+msgstr "项目列表"
 
 #: ~/Modules/Orchard.ContentTypes/Views/DisplayTemplates/EditTypeViewModel.cshtml
 #| msgid " | "
 msgid " | "
-msgstr ""
+msgstr " | "
 
 #: ~/Modules/Orchard.ContentTypes/Views/DisplayTemplates/EditTypeViewModel.cshtml
 #| msgid "Edit"
 msgid "Edit"
-msgstr ""
+msgstr "编辑"
 
 #: ~/Modules/Orchard.ContentTypes/Views/DisplayTemplates/Settings.cshtml
 #| msgid "Global Settings"
 msgid "Global Settings"
-msgstr ""
+msgstr "全局设定"
 
 #: ~/Modules/Orchard.ContentTypes/Views/EditorTemplates/ContentTypePart.ascx
 #| msgid "Remove"
 msgid "Remove"
-msgstr ""
+msgstr "移除"
 
 #: ~/Modules/Orchard.ContentTypes/Views/EditorTemplates/Field.cshtml
 #| msgid "Remove"
 msgid "Remove"
-msgstr ""
+msgstr "移除"
 
 #: ~/Modules/Orchard.ContentTypes/Views/EditorTemplates/TypePart.cshtml
 #| msgid "Remove"
 msgid "Remove"
-msgstr ""
+msgstr "移除"
 
 #: ~/Modules/Orchard.ContentTypes/Views/EditorTemplates/TypePart.cshtml
 #| msgid "{0} Settings:"
 msgid "{0} Settings:"
-msgstr ""
+msgstr "{0}设置"
 
 #: ~/Modules/Orchard.ContentTypes/Module.txt
 #| msgid "Description"
 msgid "ContentTypes modules enables the creation and alteration of content types not based on code."
-msgstr ""
+msgstr "内容类型模块在无需编写代码的情况下提供对内容类型的创建和修改等功能。"
 
 #: Orchard.ContentTypes.Services.ContentDefinitionService
 #| msgid "Cannot add part named '{0}'. It already exists."
 msgid "Cannot add part named '{0}'. It already exists."
-msgstr ""
+msgstr "无法添加名为‘{0}’的部件。它已经存在。"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/AddPartsTo.cshtml
 #| msgid "Choose the Parts to add to this Content Type.  The <b>Common</b> part should be included in most types. It gives the items an owner as well as a creation, publication and last modification date stamps. In addition to the Common part, adding the <b>Containable</b> part makes it possible to add content items of this type to a <b>List</b>."
 msgid "Choose the Parts to add to this Content Type.  The <b>Common</b> part should be included in most types. It gives the items an owner as well as a creation, publication and last modification date stamps. In addition to the Common part, adding the <b>Containable</b> part makes it possible to add content items of this type to a <b>List</b>."
-msgstr ""
+msgstr "请选择要添加到此内容类型的部件。绝大部分内容类型需包括<b>公用</b>部件。它为内容项目提供对创建，发布和修改等时间戳的管理。除公用部件外，添加<b>容器</b>部件使得内容项目可以<b>列表</b>的形式展现。"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/Edit.cshtml
 #| msgid "Add Field"
 msgid "Add Field"
-msgstr ""
+msgstr "添加字段"
 
 #: ~/Modules/Orchard.ContentTypes/Views/Admin/Edit.cshtml
 #| msgid "Add Parts"
 msgid "Add Parts"
-msgstr ""
+msgstr "添加部件"
 
 #: ~/Modules/Orchard.ContentTypes/Module.txt
 #| msgid "Name"
 msgid "ContentTypes"
-msgstr ""
+msgstr "内容类型"
 
