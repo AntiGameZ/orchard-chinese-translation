@@ -6,70 +6,70 @@
 #: ~/Modules/Orchard.Email/Module.txt
 #| msgid "Author"
 msgid "The Orchard Team"
-msgstr ""
+msgstr "Orchard 团队"
 
 #: ~/Modules/Orchard.Email/Module.txt
 #| msgid "Website"
 msgid "http://orchardproject.net"
-msgstr ""
+msgstr "http://orchardproject.net"
 
 #: ~/Modules/Orchard.Email/Module.txt
 #| msgid "Description"
 msgid "The Email Messaging module adds Email sending functionalities."
-msgstr ""
+msgstr "Email 消息模块提供 Email 发送功能。"
 
 #: Orchard.Email.Services.MissingSettingsBanner:
 #| msgid "The SMTP settings needs to be configured."
 msgid "The SMTP settings needs to be configured."
-msgstr ""
+msgstr "需对 SMTP 配置进行设置。"
 
 #: ~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml
 #| msgid "Sender email address"
 msgid "Sender email address"
-msgstr ""
+msgstr "发送方 Email 地址"
 
 #: ~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml
 #| msgid "Host name"
 msgid "Host name"
-msgstr ""
+msgstr "主机名"
 
 #: ~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml
 #| msgid "Port number"
 msgid "Port number"
-msgstr ""
+msgstr "端口号"
 
 #: ~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml
 #| msgid "Enable SSL communications"
 msgid "Enable SSL communications"
-msgstr ""
+msgstr "使用 SSL 通信"
 
 #: ~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml
 #| msgid "Require credentials"
 msgid "Require credentials"
-msgstr ""
+msgstr "要求凭据"
 
 #: ~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml
 #| msgid "User name"
 msgid "User name"
-msgstr ""
+msgstr "用户名"
 
 #: ~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml
 #| msgid "Password"
 msgid "Password"
-msgstr ""
+msgstr "密码"
 
 #: ~/Modules/Orchard.Email/Module.txt
 #| msgid "Name"
 msgid "Email Messaging"
-msgstr ""
+msgstr "Email 消息"
 
 #: Orchard.Email.Handlers.SmtpSettingsPartHandler
 #| msgid "Email"
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: ~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml
 #| msgid "Email"
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
