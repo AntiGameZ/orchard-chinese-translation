@@ -6,280 +6,280 @@
 #: ~/Modules/Orchard.Experimental/Module.txt
 #| msgid "Author"
 msgid "The Orchard Team"
-msgstr ""
+msgstr "Orchard 团队"
 
 #: ~/Modules/Orchard.Experimental/Module.txt
 #| msgid "Website"
 msgid "http://orchardproject.net"
-msgstr ""
+msgstr "http://orchardproject.net"
 
 #: ~/Modules/Orchard.Experimental/Module.txt
 #| msgid "Description"
 msgid "An assortment of debugging tools."
-msgstr ""
+msgstr "各种调试工具"
 
 #: ~/Modules/Orchard.Experimental/Module.txt
 #| msgid "Profiling.Name"
 msgid "Profiling"
-msgstr ""
+msgstr "分析"
 
 #: ~/Modules/Orchard.Experimental/Module.txt
 #| msgid "Profiling.Description"
 msgid "Tools to help profile Orchard."
-msgstr ""
+msgstr "协助分析 Orchard 的工具。"
 
 #: ~/Modules/Orchard.Experimental/Module.txt
 #| msgid "Profiling.Category"
 msgid "Developer"
-msgstr ""
+msgstr "开发者"
 
 #: ~/Modules/Orchard.Experimental/Module.txt
 #| msgid "Orchard.Experimental.WebCommandLine.Name"
 msgid "Web Command Line"
-msgstr ""
+msgstr "Web 命令行"
 
 #: ~/Modules/Orchard.Experimental/Module.txt
 #| msgid "Orchard.Experimental.WebCommandLine.Description"
 msgid "Enables site administrators to execute Orchard.exe commands via web interface"
-msgstr ""
+msgstr "允许管理员通过 Web 界面执行 Orchard.exe 命令"
 
 #: ~/Modules/Orchard.Experimental/Module.txt
 #| msgid "Orchard.Experimental.WebCommandLine.Category"
 msgid "Developer"
-msgstr ""
+msgstr "开发者"
 
 #: ~/Modules/Orchard.Experimental/Module.txt
 #| msgid "Orchard.Experimental.TestingLists.Name"
 msgid "Testing Lists"
-msgstr ""
+msgstr "测试列表"
 
 #: ~/Modules/Orchard.Experimental/Module.txt
 #| msgid "Orchard.Experimental.TestingLists.Description"
 msgid "Adds some content definitions to help test lists"
-msgstr ""
+msgstr "添加一些内容定义来帮助测试列表"
 
 #: ~/Modules/Orchard.Experimental/Module.txt
 #| msgid "Orchard.Experimental.TestingLists.Category"
 msgid "Developer"
-msgstr ""
+msgstr "开发者"
 
 #: Orchard.Experimental.AdminMenu
 #| msgid "Experimental"
 msgid "Experimental"
-msgstr ""
+msgstr "实验室"
 
 #: Orchard.Experimental.Commands.ProfilingCommands
 #| msgid "The authentication provider returned an error"
 msgid "The authentication provider returned an error"
-msgstr ""
+msgstr "验证提供者返回了一个错误"
 
 #: Orchard.Experimental.Controllers.CommandsController
 #| msgid "Error executing command: {0}"
 msgid "Error executing command: {0}"
-msgstr ""
+msgstr "命令执行错误：{0}"
 
 #: Orchard.Experimental.Controllers.HomeController
 #| msgid "Simulated error goes here."
 msgid "Simulated error goes here."
-msgstr ""
+msgstr "此处是模拟的错误。"
 
 #: Orchard.Experimental.Controllers.HomeController
 #| msgid "Notifier works without BaseViewModel"
 msgid "Notifier works without BaseViewModel"
-msgstr ""
+msgstr "提醒器无需 BaseViewModel"
 
 #: Orchard.Experimental.Controllers.HomeController
 #| msgid "Site Name"
 msgid "Site Name"
-msgstr ""
+msgstr "站点名称"
 
 #: Orchard.Experimental.Controllers.HomeController
 #| msgid "some default/pre-pop value..."
 msgid "some default/pre-pop value..."
-msgstr ""
+msgstr "默认/预输入值……"
 
 #: Orchard.Experimental.Controllers.HomeController
 #| msgid "Admin Username"
 msgid "Admin Username"
-msgstr ""
+msgstr "管理员用户名"
 
 #: Orchard.Experimental.Controllers.HomeController
 #| msgid "Admin Password"
 msgid "Admin Password"
-msgstr ""
+msgstr "管理员密码"
 
 #: Orchard.Experimental.Controllers.HomeController
 #| msgid "Finish Setup"
 msgid "Finish Setup"
-msgstr ""
+msgstr "完成设置"
 
 #: Orchard.Experimental.Controllers.HomeController
 #| msgid "This is a test"
 msgid "This is a test"
-msgstr ""
+msgstr "这是一个测试"
 
 #: ~/Modules/Orchard.Experimental/Views/Commands/Execute.cshtml
 #| msgid "Command line"
 msgid "Command line"
-msgstr ""
+msgstr "命令行"
 
 #: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
 #| msgid "{0} Content Type"
 msgid "{0} Content Type"
-msgstr ""
+msgstr "内容类型{0}"
 
 #: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
 #| msgid "Content"
 msgid "Content"
-msgstr ""
+msgstr "内容"
 
 #: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
 #| msgid "Content Item"
 msgid "Content Item"
-msgstr ""
+msgstr "内容项目"
 
 #: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
 #| msgid "Id:"
 msgid "Id:"
-msgstr ""
+msgstr "Id："
 
 #: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
 #| msgid "Version:"
 msgid "Version:"
-msgstr ""
+msgstr "版本："
 
 #: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
 #| msgid "ContentType:"
 msgid "ContentType:"
-msgstr ""
+msgstr "内容类型："
 
 #: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
 #| msgid "DisplayText:"
 msgid "DisplayText:"
-msgstr ""
+msgstr "显示文本："
 
 #: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
 #| msgid "Links:"
 msgid "Links:"
-msgstr ""
+msgstr "链接："
 
 #: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
 #| msgid "view"
 msgid "view"
-msgstr ""
+msgstr "查看"
 
 #: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
 #| msgid "edit"
 msgid "edit"
-msgstr ""
+msgstr "编辑"
 
 #: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
 #| msgid "Content Item Parts"
 msgid "Content Item Parts"
-msgstr ""
+msgstr "内容项目部件"
 
 #: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
 #| msgid "{0} #{1} v{2}"
 msgid "{0} #{1} v{2}"
-msgstr ""
+msgstr "{0} #{1} v{2}"
 
 #: ~/Modules/Orchard.Experimental/Views/Content/Index.cshtml
 #| msgid "Content"
 msgid "Content"
-msgstr ""
+msgstr "内容"
 
 #: ~/Modules/Orchard.Experimental/Views/Content/Index.cshtml
 #| msgid "Content Types"
 msgid "Content Types"
-msgstr ""
+msgstr "内容类型"
 
 #: ~/Modules/Orchard.Experimental/Views/Content/Index.cshtml
 #| msgid "Content Items"
 msgid "Content Items"
-msgstr ""
+msgstr "内容项目"
 
 #: ~/Modules/Orchard.Experimental/Views/Content/Index.cshtml
 #| msgid "{0}: {1}"
 msgid "{0}: {1}"
-msgstr ""
+msgstr "{0}：{1}"
 
 #: ~/Modules/Orchard.Experimental/Views/Content/Index.cshtml
 #| msgid "view"
 msgid "view"
-msgstr ""
+msgstr "视图"
 
 #: ~/Modules/Orchard.Experimental/Views/Content/Index.cshtml
 #| msgid "edit"
 msgid "edit"
-msgstr ""
+msgstr "编辑"
 
 #: ~/Modules/Orchard.Experimental/Views/DefinitionTemplates/ExperimentalSettings.cshtml
 #| msgid "Show debug links"
 msgid "Show debug links"
-msgstr ""
+msgstr "显示调试链接"
 
 #: ~/Modules/Orchard.Experimental/Views/EditorTemplates/Parts/Experimental.ShowDebugLink.cshtml
 #| msgid "{0} #{1} v{2}"
 msgid "{0} #{1} v{2}"
-msgstr ""
+msgstr "{0} #{1} v{2}"
 
 #: ~/Modules/Orchard.Experimental/Views/Home/Index.cshtml
 #| msgid "Experimental"
 msgid "Experimental"
-msgstr ""
+msgstr "实验室"
 
 #: ~/Modules/Orchard.Experimental/Views/Home/Index.cshtml
 #| msgid "Contents"
 msgid "Contents"
-msgstr ""
+msgstr "内容"
 
 #: ~/Modules/Orchard.Experimental/Views/Home/Index.cshtml
 #| msgid "Metadata"
 msgid "Metadata"
-msgstr ""
+msgstr "元数据"
 
 #: ~/Modules/Orchard.Experimental/Views/Home/Index.cshtml
 #| msgid "Test Unauthorized Request"
 msgid "Test Unauthorized Request"
-msgstr ""
+msgstr "未授权请求测试"
 
 #: ~/Modules/Orchard.Experimental/Views/Metadata/Index.cshtml
 #| msgid "Merge Changes"
 msgid "Merge Changes"
-msgstr ""
+msgstr "变更合并"
 
 #: ~/Modules/Orchard.Experimental/Views/Parts/Experimental.ShowDebugLink.cshtml
 #| msgid "{0} #{1} v{2}"
 msgid "{0} #{1} v{2}"
-msgstr ""
+msgstr "{0} #{1} v{2}"
 
 #: ~/Modules/Orchard.Experimental/Module.txt
 #| msgid "Name"
 msgid "Experimental"
-msgstr ""
+msgstr "实验室"
 
 #: ~/Modules/Orchard.Experimental/Module.txt
 #| msgid "Orchard.Experimental.LockLogging.Name"
 msgid "Lock Logging"
-msgstr ""
+msgstr "日志锁定"
 
 #: ~/Modules/Orchard.Experimental/Module.txt
 #| msgid "Orchard.Experimental.LockLogging.Description"
 msgid "Logs extra diagnostic information for Sql CE if a deadlock timeout occurs"
-msgstr ""
+msgstr "在使用 SQL CE 时若发生超时死锁，则记录额外的检测记录"
 
 #: ~/Modules/Orchard.Experimental/Module.txt
 #| msgid "Orchard.Experimental.LockLogging.Category"
 msgid "Developer"
-msgstr ""
+msgstr "开发者"
 
 #: Orchard.Experimental.AdminMenu
 #| msgid "Debug"
 msgid "Debug"
-msgstr ""
+msgstr "调试"
 
 #: Orchard.Experimental.Controllers.CommandsController
 #| msgid "Not authorized to use the web console"
 msgid "Not authorized to use the web console"
-msgstr ""
+msgstr "没有使用 Web 控制台的权限"
 
