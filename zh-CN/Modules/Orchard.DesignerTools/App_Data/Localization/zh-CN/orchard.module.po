@@ -6,95 +6,95 @@
 #: ~/Modules/Orchard.DesignerTools/Module.txt
 #| msgid "Name"
 msgid "Designer Tools"
-msgstr ""
+msgstr "设计工具"
 
 #: ~/Modules/Orchard.DesignerTools/Module.txt
 #| msgid "Author"
 msgid "The Orchard Team"
-msgstr ""
+msgstr "Orchard 团队"
 
 #: ~/Modules/Orchard.DesignerTools/Module.txt
 #| msgid "Website"
 msgid "http://orchardproject.net"
-msgstr ""
+msgstr "http://orchardproject.net"
 
 #: ~/Modules/Orchard.DesignerTools/Module.txt
 #| msgid "Description"
 msgid "Contains designer tools to ease the Themes development process"
-msgstr ""
+msgstr "包含了简化主题开发的设计工具"
 
 #: ~/Modules/Orchard.DesignerTools/Module.txt
 #| msgid "UrlAlternates.Name"
 msgid "Url Alternates"
-msgstr ""
+msgstr "替换 Url"
 
 #: ~/Modules/Orchard.DesignerTools/Module.txt
 #| msgid "UrlAlternates.Category"
 msgid "Designer"
-msgstr ""
+msgstr "设计器"
 
 #: ~/Modules/Orchard.DesignerTools/Module.txt
 #| msgid "UrlAlternates.Description"
 msgid "Adds shape alternates for specific urls"
-msgstr ""
+msgstr "为特定 Url 添加替换形状"
 
 #: Orchard.DesignerTools.Controllers.AlternateController
 #| msgid "Not authorized to create templates"
 msgid "Not authorized to create templates"
-msgstr ""
+msgstr "没有创建模板的权限"
 
 #: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingMeta.cshtml
 #| msgid "n/a"
 msgid "n/a"
-msgstr ""
+msgstr "不存在"
 
 #: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingMeta.cshtml
 #| msgid "Content not available as coming from source code."
 msgid "Content not available as coming from source code."
-msgstr ""
+msgstr "来自源代码的内容不可用。"
 
 #: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
 #| msgid "Shape"
 msgid "Shape"
-msgstr ""
+msgstr "形状"
 
 #: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
 #| msgid "Model"
 msgid "Model"
-msgstr ""
+msgstr "模型"
 
 #: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
 #| msgid "Placement"
 msgid "Placement"
-msgstr ""
+msgstr "位置"
 
 #: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
 #| msgid "Template"
 msgid "Template"
-msgstr ""
+msgstr "模板"
 
 #: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
 #| msgid "HTML"
 msgid "HTML"
-msgstr ""
+msgstr "HTML"
 
 #: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
 #| msgid "Active Template"
 msgid "Active Template"
-msgstr ""
+msgstr "活动模板"
 
 #: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
 #| msgid "Original Template"
 msgid "Original Template"
-msgstr ""
+msgstr "原始模板"
 
 #: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
 #| msgid "Display Type"
 msgid "Display Type"
-msgstr ""
+msgstr "显示类型"
 
 #: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
 #| msgid "Create"
 msgid "Create"
-msgstr ""
+msgstr "创建"
 
