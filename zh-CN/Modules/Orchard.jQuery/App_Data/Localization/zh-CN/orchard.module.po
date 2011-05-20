@@ -6,20 +6,20 @@
 #: ~/Modules/Orchard.jQuery/Module.txt
 #| msgid "Author"
 msgid "The Orchard Team"
-msgstr ""
+msgstr "Orchard 团队"
 
 #: ~/Modules/Orchard.jQuery/Module.txt
 #| msgid "Website"
 msgid "http://orchardproject.net"
-msgstr ""
+msgstr "http://orchardproject.net"
 
 #: ~/Modules/Orchard.jQuery/Module.txt
 #| msgid "Description"
 msgid "The jQuery module contains the jQuery and related script libraries."
-msgstr ""
+msgstr "jQuery 模块包含 jQuery 和相关的脚本库。"
 
 #: ~/Modules/Orchard.jQuery/Module.txt
 #| msgid "Name"
 msgid "Orchard.jQuery"
-msgstr ""
+msgstr "Orchard.jQuery"
 
