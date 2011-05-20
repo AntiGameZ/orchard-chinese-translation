@@ -1,0 +1,25 @@
+# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.jQuery/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr ""
+
+#: ~/Modules/Orchard.jQuery/Module.txt
+#| msgid "Website"
+msgid "http://orchardproject.net"
+msgstr ""
+
+#: ~/Modules/Orchard.jQuery/Module.txt
+#| msgid "Description"
+msgid "The jQuery module contains the jQuery and related script libraries."
+msgstr ""
+
+#: ~/Modules/Orchard.jQuery/Module.txt
+#| msgid "Name"
+msgid "Orchard.jQuery"
+msgstr ""
+

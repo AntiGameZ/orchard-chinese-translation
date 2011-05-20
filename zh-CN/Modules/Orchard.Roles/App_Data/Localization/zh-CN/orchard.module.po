@@ -1,0 +1,250 @@
+# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Roles/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Module.txt
+#| msgid "Website"
+msgid "http://orchardproject.net"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Module.txt
+#| msgid "Description"
+msgid "The roles module is adding the ability to assign roles to users. It's also providing a set of default roles for which other modules can define default permissions."
+msgstr ""
+
+#: Orchard.Roles.AdminMenu
+#| msgid "Users"
+msgid "Users"
+msgstr ""
+
+#: Orchard.Roles.AdminMenu
+#| msgid "Roles"
+msgid "Roles"
+msgstr ""
+
+#: Orchard.Roles.Controllers.AdminController
+#| msgid "Not authorized to manage roles"
+msgid "Not authorized to manage roles"
+msgstr ""
+
+#: Orchard.Roles.Controllers.AdminController
+#| msgid "Deleting Role failed: {0}"
+msgid "Deleting Role failed: {0}"
+msgstr ""
+
+#: Orchard.Roles.Controllers.AdminController
+#| msgid "Creating Role failed: {0}"
+msgid "Creating Role failed: {0}"
+msgstr ""
+
+#: Orchard.Roles.Controllers.AdminController
+#| msgid "Your Role has been saved."
+msgid "Your Role has been saved."
+msgstr ""
+
+#: Orchard.Roles.Controllers.AdminController
+#| msgid "Editing Role failed: {0}"
+msgid "Editing Role failed: {0}"
+msgstr ""
+
+#: Orchard.Roles.Controllers.AdminController
+#| msgid "Role was successfully deleted."
+msgid "Role was successfully deleted."
+msgstr ""
+
+#: Orchard.Roles.Drivers.UserRolesPartDriver
+#| msgid "Adding role {0} to user {1}"
+msgid "Adding role {0} to user {1}"
+msgstr ""
+
+#: Orchard.Roles.Drivers.UserRolesPartDriver
+#| msgid "Removing role {0} from user {1}"
+msgid "Removing role {0} from user {1}"
+msgstr ""
+
+#: Orchard.Roles.Services.RolesBasedAuthorizationService
+#| msgid "A security exception occurred in the content management system."
+msgid "A security exception occurred in the content management system."
+msgstr ""
+
+#: Orchard.Roles.Services.RoleService
+#| msgid "Permission {0} was not found in any of the installed modules."
+msgid "Permission {0} was not found in any of the installed modules."
+msgstr ""
+
+#: Orchard.Roles.Services.RoleService
+#| msgid "{0} Feature"
+msgid "{0} Feature"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Create.cshtml
+#| msgid "Add Role"
+msgid "Add Role"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Create.cshtml
+#| msgid "Information"
+msgid "Information"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Create.cshtml
+#| msgid "Role Name:"
+msgid "Role Name:"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Create.cshtml
+#| msgid "Permissions"
+msgid "Permissions"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Create.cshtml
+#| msgid "{0} Module"
+msgid "{0} Module"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Create.cshtml
+#| msgid "Permission"
+msgid "Permission"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Create.cshtml
+#| msgid "Allow"
+msgid "Allow"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Create.cshtml
+#| msgid "Checkbox.{0}"
+msgid "Checkbox.{0}"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Create.cshtml
+#| msgid "Save"
+msgid "Save"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml
+#| msgid "Edit Role"
+msgid "Edit Role"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml
+#| msgid "Information"
+msgid "Information"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml
+#| msgid "Role Name:"
+msgid "Role Name:"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml
+#| msgid "Permissions"
+msgid "Permissions"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml
+#| msgid "Permission"
+msgid "Permission"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml
+#| msgid "Allow"
+msgid "Allow"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml
+#| msgid "Effective"
+msgid "Effective"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml
+#| msgid "Checkbox.{0}"
+msgid "Checkbox.{0}"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml
+#| msgid "Effective.{0}"
+msgid "Effective.{0}"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml
+#| msgid "Save"
+msgid "Save"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Index.cshtml
+#| msgid "Actions:"
+msgid "Actions:"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Index.cshtml
+#| msgid "Apply"
+msgid "Apply"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Index.cshtml
+#| msgid "Add a role"
+msgid "Add a role"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Index.cshtml
+#| msgid "This is a table of the roles currently available for use in your application."
+msgid "This is a table of the roles currently available for use in your application."
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Index.cshtml
+#| msgid "Name"
+msgid "Name"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Index.cshtml
+#| msgid "Edit"
+msgid "Edit"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Index.cshtml
+#| msgid " | "
+msgid " | "
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Views/EditorTemplates/Parts/Roles.UserRoles.cshtml
+#| msgid "Roles"
+msgid "Roles"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Views/EditorTemplates/Parts/Roles.UserRoles.cshtml
+#| msgid "There are no roles."
+msgid "There are no roles."
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Module.txt
+#| msgid "Name"
+msgid "Roles"
+msgstr ""
+
+#: Orchard.Roles.Controllers.AdminController
+#| msgid "Creating Role {0} failed: Role with same name already exists"
+msgid "Creating Role {0} failed: Role with same name already exists"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml
+#| msgid "Delete"
+msgid "Delete"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Index.cshtml
+#| msgid "Roles"
+msgid "Roles"
+msgstr ""
+
+#: ~/Modules/Orchard.Roles/Views/Admin/Index.cshtml
+#| msgid "Delete"
+msgid "Delete"
+msgstr ""
+

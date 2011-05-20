@@ -1,0 +1,155 @@
+# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.ImportExport/Module.txt
+#| msgid "Name"
+msgid "Import Export"
+msgstr ""
+
+#: ~/Modules/Orchard.ImportExport/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr ""
+
+#: ~/Modules/Orchard.ImportExport/Module.txt
+#| msgid "Website"
+msgid "http://orchardproject.net"
+msgstr ""
+
+#: ~/Modules/Orchard.ImportExport/Module.txt
+#| msgid "Description"
+msgid "Provides content item data import and export capability."
+msgstr ""
+
+#: Orchard.ImportExport.AdminMenu
+#| msgid "Import/Export"
+msgid "Import/Export"
+msgstr ""
+
+#: Orchard.ImportExport.AdminMenu
+#| msgid "Import"
+msgid "Import"
+msgstr ""
+
+#: Orchard.ImportExport.AdminMenu
+#| msgid "Export"
+msgid "Export"
+msgstr ""
+
+#: Orchard.ImportExport.Controllers.AdminController
+#| msgid "Not allowed to import."
+msgid "Not allowed to import."
+msgstr ""
+
+#: Orchard.ImportExport.Controllers.AdminController
+#| msgid "Please choose a recipe file to import."
+msgid "Please choose a recipe file to import."
+msgstr ""
+
+#: Orchard.ImportExport.Controllers.AdminController
+#| msgid "Your recipe has been imported."
+msgid "Your recipe has been imported."
+msgstr ""
+
+#: Orchard.ImportExport.Controllers.AdminController
+#| msgid "Import failed: {0}"
+msgid "Import failed: {0}"
+msgstr ""
+
+#: Orchard.ImportExport.Controllers.AdminController
+#| msgid "Not allowed to export."
+msgid "Not allowed to export."
+msgstr ""
+
+#: Orchard.ImportExport.Controllers.AdminController
+#| msgid "Your export file has been created at {0}"
+msgid "Your export file has been created at {0}"
+msgstr ""
+
+#: Orchard.ImportExport.Controllers.AdminController
+#| msgid "Export failed: {0}"
+msgid "Export failed: {0}"
+msgstr ""
+
+#: Orchard.ImportExport.Services.ImportExportService
+#| msgid "Step {0} is not a supported import step."
+msgid "Step {0} is not a supported import step."
+msgstr ""
+
+#: ~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml
+#| msgid "Export"
+msgid "Export"
+msgstr ""
+
+#: ~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml
+#| msgid "Choose the types to include in the export file:"
+msgid "Choose the types to include in the export file:"
+msgstr ""
+
+#: ~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml
+#| msgid "Choose what to save for these types:"
+msgid "Choose what to save for these types:"
+msgstr ""
+
+#: ~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml
+#| msgid "Metadata"
+msgid "Metadata"
+msgstr ""
+
+#: ~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml
+#| msgid "Metadata is the definition of your content types: what parts and fields they have, with what settings."
+msgid "Metadata is the definition of your content types: what parts and fields they have, with what settings."
+msgstr ""
+
+#: ~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml
+#| msgid "Data"
+msgid "Data"
+msgstr ""
+
+#: ~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml
+#| msgid "Data is the actual content of your site."
+msgid "Data is the actual content of your site."
+msgstr ""
+
+#: ~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml
+#| msgid "Version History"
+msgid "Version History"
+msgstr ""
+
+#: ~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml
+#| msgid "Only Published Versions"
+msgid "Only Published Versions"
+msgstr ""
+
+#: ~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml
+#| msgid "Only Drafts"
+msgid "Only Drafts"
+msgstr ""
+
+#: ~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml
+#| msgid "Site Settings"
+msgid "Site Settings"
+msgstr ""
+
+#: ~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml
+#| msgid "Please verify that you are not exporting confidential information, such as passwords or application keys."
+msgid "Please verify that you are not exporting confidential information, such as passwords or application keys."
+msgstr ""
+
+#: ~/Modules/Orchard.ImportExport/Views/Admin/Import.cshtml
+#| msgid "Import"
+msgid "Import"
+msgstr ""
+
+#: ~/Modules/Orchard.ImportExport/Views/Admin/Import.cshtml
+#| msgid "exporting"
+msgid "exporting"
+msgstr ""
+
+#: ~/Modules/Orchard.ImportExport/Views/Admin/Import.cshtml
+#| msgid "Recipe File:"
+msgid "Recipe File:"
+msgstr ""
+

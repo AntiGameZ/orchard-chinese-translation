@@ -1,0 +1,100 @@
+# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.DesignerTools/Module.txt
+#| msgid "Name"
+msgid "Designer Tools"
+msgstr ""
+
+#: ~/Modules/Orchard.DesignerTools/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr ""
+
+#: ~/Modules/Orchard.DesignerTools/Module.txt
+#| msgid "Website"
+msgid "http://orchardproject.net"
+msgstr ""
+
+#: ~/Modules/Orchard.DesignerTools/Module.txt
+#| msgid "Description"
+msgid "Contains designer tools to ease the Themes development process"
+msgstr ""
+
+#: ~/Modules/Orchard.DesignerTools/Module.txt
+#| msgid "UrlAlternates.Name"
+msgid "Url Alternates"
+msgstr ""
+
+#: ~/Modules/Orchard.DesignerTools/Module.txt
+#| msgid "UrlAlternates.Category"
+msgid "Designer"
+msgstr ""
+
+#: ~/Modules/Orchard.DesignerTools/Module.txt
+#| msgid "UrlAlternates.Description"
+msgid "Adds shape alternates for specific urls"
+msgstr ""
+
+#: Orchard.DesignerTools.Controllers.AlternateController
+#| msgid "Not authorized to create templates"
+msgid "Not authorized to create templates"
+msgstr ""
+
+#: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingMeta.cshtml
+#| msgid "n/a"
+msgid "n/a"
+msgstr ""
+
+#: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingMeta.cshtml
+#| msgid "Content not available as coming from source code."
+msgid "Content not available as coming from source code."
+msgstr ""
+
+#: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
+#| msgid "Shape"
+msgid "Shape"
+msgstr ""
+
+#: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
+#| msgid "Model"
+msgid "Model"
+msgstr ""
+
+#: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
+#| msgid "Placement"
+msgid "Placement"
+msgstr ""
+
+#: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
+#| msgid "Template"
+msgid "Template"
+msgstr ""
+
+#: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
+#| msgid "HTML"
+msgid "HTML"
+msgstr ""
+
+#: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
+#| msgid "Active Template"
+msgid "Active Template"
+msgstr ""
+
+#: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
+#| msgid "Original Template"
+msgid "Original Template"
+msgstr ""
+
+#: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
+#| msgid "Display Type"
+msgid "Display Type"
+msgstr ""
+
+#: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
+#| msgid "Create"
+msgid "Create"
+msgstr ""
+

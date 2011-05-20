@@ -1,0 +1,100 @@
+# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Recipes/Module.txt
+#| msgid "Name"
+msgid "Recipes"
+msgstr ""
+
+#: ~/Modules/Orchard.Recipes/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr ""
+
+#: ~/Modules/Orchard.Recipes/Module.txt
+#| msgid "Website"
+msgid "http://orchardproject.net"
+msgstr ""
+
+#: ~/Modules/Orchard.Recipes/Module.txt
+#| msgid "Description"
+msgid "Provides Orchard Recipes."
+msgstr ""
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid "Could not discover recipes because module '{0}' was not found."
+msgid "Could not discover recipes because module '{0}' was not found."
+msgstr ""
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid "No recipes found for extension {0}."
+msgid "No recipes found for extension {0}."
+msgstr ""
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid "List of available recipes"
+msgid "List of available recipes"
+msgstr ""
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid "--------------------------"
+msgid "--------------------------"
+msgstr ""
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid "Recipe: {0}"
+msgid "Recipe: {0}"
+msgstr ""
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid "  Version:     {0}"
+msgid "  Version:     {0}"
+msgstr ""
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid "  Tags:        {0}"
+msgid "  Tags:        {0}"
+msgstr ""
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid "  Description: {0}"
+msgid "  Description: {0}"
+msgstr ""
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid "  Author:      {0}"
+msgid "  Author:      {0}"
+msgstr ""
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid "  Website:     {0}"
+msgid "  Website:     {0}"
+msgstr ""
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid "Invalid recipe name {0}."
+msgid "Invalid recipe name {0}."
+msgstr ""
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid "Recipe scheduled for execution successfully."
+msgid "Recipe scheduled for execution successfully."
+msgstr ""
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid "Recipe failed to execute."
+msgid "Recipe failed to execute."
+msgstr ""
+
+#: Orchard.Recipes.Services.RecipeStepExecutor
+#| msgid "Recipe execution with id {0} was cancelled because the \"{1}\" step failed to execute. The following exception was thrown: {2}. Refer to the recipe journal for more information."
+msgid "Recipe execution with id {0} was cancelled because the \"{1}\" step failed to execute. The following exception was thrown: {2}. Refer to the recipe journal for more information."
+msgstr ""
+
+#: Orchard.Recipes.Services.RecipeStepExecutor
+#| msgid "Recipe execution with id {0} was cancelled because the recipe handler for step \"{1}\" was not found. Refer to the recipe journal for more information."
+msgid "Recipe execution with id {0} was cancelled because the recipe handler for step \"{1}\" was not found. Refer to the recipe journal for more information."
+msgstr ""
+

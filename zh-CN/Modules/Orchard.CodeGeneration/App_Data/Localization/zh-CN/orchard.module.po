@@ -1,0 +1,120 @@
+# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.CodeGeneration/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr ""
+
+#: ~/Modules/Orchard.CodeGeneration/Module.txt
+#| msgid "Website"
+msgid "http://orchardproject.net"
+msgstr ""
+
+#: ~/Modules/Orchard.CodeGeneration/Module.txt
+#| msgid "Description"
+msgid "Tools to create Orchard components."
+msgstr ""
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Creating Data Migration for {0}"
+msgid "Creating Data Migration for {0}"
+msgstr ""
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Creating data migration failed: target Feature {0} could not be found."
+msgid "Creating data migration failed: target Feature {0} could not be found."
+msgstr ""
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Data migration already exists in target Module {0}."
+msgid "Data migration already exists in target Module {0}."
+msgstr ""
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Data migration created successfully in Module {0}"
+msgid "Data migration created successfully in Module {0}"
+msgstr ""
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Creating Module {0}"
+msgid "Creating Module {0}"
+msgstr ""
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Creating Module {0} failed: a module of the same name already exists"
+msgid "Creating Module {0} failed: a module of the same name already exists"
+msgstr ""
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Module {0} created successfully"
+msgid "Module {0} created successfully"
+msgstr ""
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Creating Theme {0}"
+msgid "Creating Theme {0}"
+msgstr ""
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Creating Theme {0} failed: an extention of the same name already exists"
+msgid "Creating Theme {0} failed: an extention of the same name already exists"
+msgstr ""
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Creating Theme {0} failed: base theme named {1} was not found."
+msgid "Creating Theme {0} failed: base theme named {1} was not found."
+msgstr ""
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Theme {0} created successfully"
+msgid "Theme {0} created successfully"
+msgstr ""
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Creating Controller {0} in Module {1}"
+msgid "Creating Controller {0} in Module {1}"
+msgstr ""
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Creating Controller {0} failed: target Module {1} could not be found."
+msgid "Creating Controller {0} failed: target Module {1} could not be found."
+msgstr ""
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Controller {0} already exists in target Module {1}."
+msgid "Controller {0} already exists in target Module {1}."
+msgstr ""
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Controller {0} created successfully in Module {1}"
+msgid "Controller {0} created successfully in Module {1}"
+msgstr ""
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Warning: Solution file could not be found at {0}"
+msgid "Warning: Solution file could not be found at {0}"
+msgstr ""
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Warning: Orchard.Themes project file could not be found at {0}"
+msgid "Warning: Orchard.Themes project file could not be found at {0}"
+msgstr ""
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Warning: Unable to modify Orchard.Themes project file at {0}"
+msgid "Warning: Unable to modify Orchard.Themes project file at {0}"
+msgstr ""
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "An unexpected error occured while trying to refresh the Visual Studio solution. Please reload it."
+msgid "An unexpected error occured while trying to refresh the Visual Studio solution. Please reload it."
+msgstr ""
+
+#: ~/Modules/Orchard.CodeGeneration/Module.txt
+#| msgid "Name"
+msgid "Code Generation"
+msgstr ""
+

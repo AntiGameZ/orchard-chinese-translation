@@ -1,0 +1,35 @@
+# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Vandelay.TranslationManager/Module.txt
+#| msgid "Author"
+msgid "Bertrand Le Roy"
+msgstr ""
+
+#: ~/Modules/Vandelay.TranslationManager/Module.txt
+#| msgid "Website"
+msgid "http://weblogs.asp.net/bleroy"
+msgstr ""
+
+#: ~/Modules/Vandelay.TranslationManager/Module.txt
+#| msgid "Description"
+msgid "Translation management without leaving the Orchard admin UI"
+msgstr ""
+
+#: ~/Modules/Vandelay.TranslationManager/Module.txt
+#| msgid "Vandelay.TranslationManager.Description"
+msgid "Translation management without leaving the Orchard admin UI"
+msgstr ""
+
+#: ~/Modules/Vandelay.TranslationManager/Module.txt
+#| msgid "Vandelay.TranslationManager.Category"
+msgid "Content"
+msgstr ""
+
+#: ~/Modules/Vandelay.TranslationManager/Module.txt
+#| msgid "Name"
+msgid "Vandelay.TranslationManager"
+msgstr ""
+

@@ -1,0 +1,705 @@
+# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Users/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Module.txt
+#| msgid "Website"
+msgid "http://orchardproject.net"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Module.txt
+#| msgid "Description"
+msgid "The users module enables user management."
+msgstr ""
+
+#: Orchard.Users.AdminMenu
+#| msgid "Users"
+msgid "Users"
+msgstr ""
+
+#: Orchard.Users.Commands.UserCommands
+#| msgid "User with that username and/or email already exists."
+msgid "User with that username and/or email already exists."
+msgstr ""
+
+#: Orchard.Users.Commands.UserCommands
+#| msgid "You must specify a password of {0} or more characters."
+msgid "You must specify a password of {0} or more characters."
+msgstr ""
+
+#: Orchard.Users.Commands.UserCommands
+#| msgid "The authentication provider returned an error"
+msgid "The authentication provider returned an error"
+msgstr ""
+
+#: Orchard.Users.Commands.UserCommands
+#| msgid "User created successfully"
+msgid "User created successfully"
+msgstr ""
+
+#: Orchard.Users.Controllers.AccountController
+#| msgid "Access Denied"
+msgid "Access Denied"
+msgstr ""
+
+#: Orchard.Users.Controllers.AccountController
+#| msgid "Log On"
+msgid "Log On"
+msgstr ""
+
+#: Orchard.Users.Controllers.AccountController
+#| msgid "Invalid username or E-mail"
+msgid "Invalid username or E-mail"
+msgstr ""
+
+#: Orchard.Users.Controllers.AccountController
+#| msgid "Check your e-mail for the confirmation link."
+msgid "Check your e-mail for the confirmation link."
+msgstr ""
+
+#: Orchard.Users.Controllers.AccountController
+#| msgid "The current password is incorrect or the new password is invalid."
+msgid "The current password is incorrect or the new password is invalid."
+msgstr ""
+
+#: Orchard.Users.Controllers.AccountController
+#| msgid "You must specify a new password of {0} or more characters."
+msgid "You must specify a new password of {0} or more characters."
+msgstr ""
+
+#: Orchard.Users.Controllers.AccountController
+#| msgid "The new password and confirmation password do not match."
+msgid "The new password and confirmation password do not match."
+msgstr ""
+
+#: Orchard.Users.Controllers.AccountController
+#| msgid "Windows authentication is not supported."
+msgid "Windows authentication is not supported."
+msgstr ""
+
+#: Orchard.Users.Controllers.AccountController
+#| msgid "You must specify a current password."
+msgid "You must specify a current password."
+msgstr ""
+
+#: Orchard.Users.Controllers.AccountController
+#| msgid "You must specify a username or e-mail."
+msgid "You must specify a username or e-mail."
+msgstr ""
+
+#: Orchard.Users.Controllers.AccountController
+#| msgid "You must specify a password."
+msgid "You must specify a password."
+msgstr ""
+
+#: Orchard.Users.Controllers.AccountController
+#| msgid "The username or e-mail or password provided is incorrect."
+msgid "The username or e-mail or password provided is incorrect."
+msgstr ""
+
+#: Orchard.Users.Controllers.AccountController
+#| msgid "You must specify a username."
+msgid "You must specify a username."
+msgstr ""
+
+#: Orchard.Users.Controllers.AccountController
+#| msgid "You must specify an email address."
+msgid "You must specify an email address."
+msgstr ""
+
+#: Orchard.Users.Controllers.AccountController
+#| msgid "User with that username and/or email already exists."
+msgid "User with that username and/or email already exists."
+msgstr ""
+
+#: Orchard.Users.Controllers.AccountController
+#| msgid "You must specify a password of {0} or more characters."
+msgid "You must specify a password of {0} or more characters."
+msgstr ""
+
+#: Orchard.Users.Controllers.AdminController
+#| msgid "Not authorized to list users"
+msgid "Not authorized to list users"
+msgstr ""
+
+#: Orchard.Users.Controllers.AdminController
+#| msgid "Not authorized to manage users"
+msgid "Not authorized to manage users"
+msgstr ""
+
+#: Orchard.Users.Controllers.AdminController
+#| msgid "User with that username and/or email already exists."
+msgid "User with that username and/or email already exists."
+msgstr ""
+
+#: Orchard.Users.Controllers.AdminController
+#| msgid "Password confirmation must match"
+msgid "Password confirmation must match"
+msgstr ""
+
+#: Orchard.Users.Controllers.AdminController
+#| msgid "User created"
+msgid "User created"
+msgstr ""
+
+#: Orchard.Users.Controllers.AdminController
+#| msgid "User information updated"
+msgid "User information updated"
+msgstr ""
+
+#: Orchard.Users.Controllers.AdminController
+#| msgid "The Super user can't be removed. Please disable this account or specify another Super user account"
+msgid "The Super user can't be removed. Please disable this account or specify another Super user account"
+msgstr ""
+
+#: Orchard.Users.Controllers.AdminController
+#| msgid "You can't remove your own account. Please log in with another account"
+msgid "You can't remove your own account. Please log in with another account"
+msgstr ""
+
+#: Orchard.Users.Controllers.AdminController
+#| msgid "You can't disable your own account. Please log in with another account"
+msgid "You can't disable your own account. Please log in with another account"
+msgstr ""
+
+#: Orchard.Users.Controllers.AdminController
+#| msgid "User {0} disabled"
+msgid "User {0} disabled"
+msgstr ""
+
+#: Orchard.Users.Handlers.UserMessagesAlteration
+#| msgid "New account"
+msgid "New account"
+msgstr ""
+
+#: Orchard.Users.Handlers.UserMessagesAlteration
+#| msgid "Verification E-Mail"
+msgid "Verification E-Mail"
+msgstr ""
+
+#: Orchard.Users.Handlers.UserMessagesAlteration
+#| msgid "<br/><br/>If you continue to have access problems or want to report other issues, please <a href=\"mailto:{0}\">Contact Us</a>."
+msgid "<br/><br/>If you continue to have access problems or want to report other issues, please <a href=\"mailto:{0}\">Contact Us</a>."
+msgstr ""
+
+#: Orchard.Users.Handlers.UserMessagesAlteration
+#| msgid "Lost password"
+msgid "Lost password"
+msgstr ""
+
+#: Orchard.Users.Services.MembershipService
+#| msgid "Unexpected password format value"
+msgid "Unexpected password format value"
+msgstr ""
+
+#: Orchard.Users.Services.MissingSettingsBanner
+#| msgid "Some Orchard.User settings require an Email channel to be enabled."
+msgid "Some Orchard.User settings require an Email channel to be enabled."
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/LogOn.cshtml
+#| msgid "Please enter your username and password."
+msgid "Please enter your username and password."
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/LogOn.cshtml
+#| msgid "Register"
+msgid "Register"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/LogOn.cshtml
+#| msgid " if you don't have an account."
+msgid " if you don't have an account."
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/LogOn.cshtml
+#| msgid "Lost your Password?"
+msgid "Lost your Password?"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/LogOn.cshtml
+#| msgid "Login was unsuccessful. Please correct the errors and try again."
+msgid "Login was unsuccessful. Please correct the errors and try again."
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/LogOn.cshtml
+#| msgid "Account Information"
+msgid "Account Information"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/LogOn.cshtml
+#| msgid "Username"
+msgid "Username"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/LogOn.cshtml
+#| msgid "Password"
+msgid "Password"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/LogOn.cshtml
+#| msgid "Sign In"
+msgid "Sign In"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Account/AccessDenied.cshtml
+#| msgid "Access Denied"
+msgid "Access Denied"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Account/AccessDenied.cshtml
+#| msgid "You do not have permission to complete your request."
+msgid "You do not have permission to complete your request."
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Account/ChallengeEmailFail.cshtml
+#| msgid "Challenge Email"
+msgid "Challenge Email"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Account/ChallengeEmailFail.cshtml
+#| msgid "Your email address could not be validated."
+msgid "Your email address could not be validated."
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Account/ChallengeEmailSent.cshtml
+#| msgid "Challenge Email Sent"
+msgid "Challenge Email Sent"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Account/ChallengeEmailSent.cshtml
+#| msgid "An email has been sent to you. Please click on the link it contains in order to have access on this site."
+msgid "An email has been sent to you. Please click on the link it contains in order to have access on this site."
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Account/ChallengeEmailSuccess.cshtml
+#| msgid "Challenge Email"
+msgid "Challenge Email"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Account/ChallengeEmailSuccess.cshtml
+#| msgid "Your email address has been validated."
+msgid "Your email address has been validated."
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Account/ChangePassword.cshtml
+#| msgid "Change Password"
+msgid "Change Password"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Account/ChangePassword.cshtml
+#| msgid "Use the form below to change your password."
+msgid "Use the form below to change your password."
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Account/ChangePassword.cshtml
+#| msgid "Password change was unsuccessful. Please correct the errors and try again."
+msgid "Password change was unsuccessful. Please correct the errors and try again."
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Account/ChangePassword.cshtml
+#| msgid "Account Information"
+msgid "Account Information"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Account/ChangePassword.cshtml
+#| msgid "Current password:"
+msgid "Current password:"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Account/ChangePassword.cshtml
+#| msgid "New password:"
+msgid "New password:"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Account/ChangePassword.cshtml
+#| msgid "Confirm new password:"
+msgid "Confirm new password:"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Account/ChangePasswordSuccess.cshtml
+#| msgid "Change Password"
+msgid "Change Password"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Account/ChangePasswordSuccess.cshtml
+#| msgid "Your password has been changed successfully."
+msgid "Your password has been changed successfully."
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Account/LostPassword.cshtml
+#| msgid "Change Password"
+msgid "Change Password"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Account/LostPassword.cshtml
+#| msgid "Use the form below to change your password."
+msgid "Use the form below to change your password."
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Account/LostPassword.cshtml
+#| msgid "Password change was unsuccessful. Please correct the errors and try again."
+msgid "Password change was unsuccessful. Please correct the errors and try again."
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Account/LostPassword.cshtml
+#| msgid "Account Information"
+msgid "Account Information"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Account/LostPassword.cshtml
+#| msgid "New password:"
+msgid "New password:"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Account/LostPassword.cshtml
+#| msgid "Confirm new password:"
+msgid "Confirm new password:"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Account/RegistrationPending.cshtml
+#| msgid "User Registration Pending"
+msgid "User Registration Pending"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Account/RegistrationPending.cshtml
+#| msgid "Your user account has been created but has to be approved before it can be used."
+msgid "Your user account has been created but has to be approved before it can be used."
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Account/RequestLostPassword.cshtml
+#| msgid "Lost Password"
+msgid "Lost Password"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Account/RequestLostPassword.cshtml
+#| msgid "Please enter your username or email address. You will receive a link to create a new password via email."
+msgid "Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Account/RequestLostPassword.cshtml
+#| msgid "Account Information"
+msgid "Account Information"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Account/RequestLostPassword.cshtml
+#| msgid "Username or E-mail:"
+msgid "Username or E-mail:"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Account/RequestLostPassword.cshtml
+#| msgid "Send Request"
+msgid "Send Request"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Admin/Create.cshtml
+#| msgid "Add User"
+msgid "Add User"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Admin/Edit.cshtml
+#| msgid "Edit User"
+msgid "Edit User"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Admin/Index.cshtml
+#| msgid "Add a new user"
+msgid "Add a new user"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Admin/Index.cshtml
+#| msgid "Name"
+msgid "Name"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Admin/Index.cshtml
+#| msgid "Email"
+msgid "Email"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Admin/Index.cshtml
+#| msgid "Approved"
+msgid "Approved"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Admin/Index.cshtml
+#| msgid "User is approved"
+msgid "User is approved"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Admin/Index.cshtml
+#| msgid "Moderated"
+msgid "Moderated"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Admin/Index.cshtml
+#| msgid "User is moderated"
+msgid "User is moderated"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Admin/Index.cshtml
+#| msgid "E-mail validation is pending"
+msgid "E-mail validation is pending"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Admin/Index.cshtml
+#| msgid "Edit"
+msgid "Edit"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Admin/Index.cshtml
+#| msgid "Approve"
+msgid "Approve"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Admin/Index.cshtml
+#| msgid "Disable"
+msgid "Disable"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Admin/Index.cshtml
+#| msgid "Send challenge E-mail"
+msgid "Send challenge E-mail"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/EditorTemplates/Parts/User.Create.cshtml
+#| msgid "User Name"
+msgid "User Name"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/EditorTemplates/Parts/User.Create.cshtml
+#| msgid "Email"
+msgid "Email"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/EditorTemplates/Parts/User.Create.cshtml
+#| msgid "Password"
+msgid "Password"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/EditorTemplates/Parts/User.Create.cshtml
+#| msgid "Confirm Password"
+msgid "Confirm Password"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/EditorTemplates/Parts/User.Edit.cshtml
+#| msgid "User Name"
+msgid "User Name"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/EditorTemplates/Parts/User.Edit.cshtml
+#| msgid "Email"
+msgid "Email"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml
+#| msgid "Users can create new accounts on the site"
+msgid "Users can create new accounts on the site"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml
+#| msgid "Users must verify their email address"
+msgid "Users must verify their email address"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml
+#| msgid "Website public name"
+msgid "Website public name"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml
+#| msgid "The name of your website as it will appear in the verification e-mail."
+msgid "The name of your website as it will appear in the verification e-mail."
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml
+#| msgid "Contact Us E-Mail address"
+msgid "Contact Us E-Mail address"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml
+#| msgid "The e-mail address displayed in the verification e-mail for a Contact Us link. Leave empty for no link."
+msgid "The e-mail address displayed in the verification e-mail for a Contact Us link. Leave empty for no link."
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml
+#| msgid "Users must be approved before they can log in"
+msgid "Users must be approved before they can log in"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml
+#| msgid "Send a notification when a user needs moderation"
+msgid "Send a notification when a user needs moderation"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml
+#| msgid "Moderators"
+msgid "Moderators"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml
+#| msgid "The usernames to send the notifications to (e.g., \"admin, user1, ...\")."
+msgid "The usernames to send the notifications to (e.g., \"admin, user1, ...\")."
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Module.txt
+#| msgid "Name"
+msgid "Users"
+msgstr ""
+
+#: Orchard.Users.Controllers.AccountController
+#| msgid "You must specify a valid email address."
+msgid "You must specify a valid email address."
+msgstr ""
+
+#: Orchard.Users.Controllers.AdminController
+#| msgid "You must specify a valid email address."
+msgid "You must specify a valid email address."
+msgstr ""
+
+#: Orchard.Users.Controllers.AdminController
+#| msgid "User {0} deleted"
+msgid "User {0} deleted"
+msgstr ""
+
+#: Orchard.Users.Controllers.AdminController
+#| msgid "Challenge email sent to {0}"
+msgid "Challenge email sent to {0}"
+msgstr ""
+
+#: Orchard.Users.Controllers.AdminController
+#| msgid "User {0} approved"
+msgid "User {0} approved"
+msgstr ""
+
+#: Orchard.Users.Handlers.RegistrationSettingsPartHandler
+#| msgid "Users"
+msgid "Users"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Register.cshtml
+#| msgid "Create a New Account"
+msgid "Create a New Account"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Register.cshtml
+#| msgid "Use the form below to create a new account."
+msgid "Use the form below to create a new account."
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Register.cshtml
+#| msgid "Account creation was unsuccessful. Please correct the errors and try again."
+msgid "Account creation was unsuccessful. Please correct the errors and try again."
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Register.cshtml
+#| msgid "Account Information"
+msgid "Account Information"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Register.cshtml
+#| msgid "Username:"
+msgid "Username:"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Register.cshtml
+#| msgid "Email:"
+msgid "Email:"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Register.cshtml
+#| msgid "Password:"
+msgid "Password:"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Register.cshtml
+#| msgid "Confirm password:"
+msgid "Confirm password:"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Register.cshtml
+#| msgid "Register"
+msgid "Register"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Admin/Index.cshtml
+#| msgid "Users"
+msgid "Users"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Admin/Index.cshtml
+#| msgid "Actions:"
+msgid "Actions:"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Admin/Index.cshtml
+#| msgid "Choose action..."
+msgid "Choose action..."
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Admin/Index.cshtml
+#| msgid "Delete"
+msgid "Delete"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Admin/Index.cshtml
+#| msgid "Apply"
+msgid "Apply"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Admin/Index.cshtml
+#| msgid "Filter:"
+msgid "Filter:"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Admin/Index.cshtml
+#| msgid "All Users"
+msgid "All Users"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Admin/Index.cshtml
+#| msgid "Approved Users"
+msgid "Approved Users"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Admin/Index.cshtml
+#| msgid "Pending Users"
+msgid "Pending Users"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Admin/Index.cshtml
+#| msgid "Pending Emails"
+msgid "Pending Emails"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Admin/Index.cshtml
+#| msgid "Sort by:"
+msgid "Sort by:"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Admin/Index.cshtml
+#| msgid "Filter"
+msgid "Filter"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/Admin/Index.cshtml
+#| msgid "Actions"
+msgid "Actions"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml
+#| msgid "Users"
+msgid "Users"
+msgstr ""
+
+#: ~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml
+#| msgid "Display a link to enable users to reset their password"
+msgid "Display a link to enable users to reset their password"
+msgstr ""
+

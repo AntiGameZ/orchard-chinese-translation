@@ -1,0 +1,45 @@
+# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Scripting/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr ""
+
+#: ~/Modules/Orchard.Scripting/Module.txt
+#| msgid "Website"
+msgid "http://orchardproject.net"
+msgstr ""
+
+#: ~/Modules/Orchard.Scripting/Module.txt
+#| msgid "Description"
+msgid "The scripting module enables the possibility to execute scripts using a simple custom scripting language."
+msgstr ""
+
+#: ~/Modules/Orchard.Scripting/Module.txt
+#| msgid "Orchard.Scripting.Lightweight.Name"
+msgid "Lightweight scripting"
+msgstr ""
+
+#: ~/Modules/Orchard.Scripting/Module.txt
+#| msgid "Orchard.Scripting.Lightweight.Description"
+msgid "Custom lightweight and simple scripting language."
+msgstr ""
+
+#: ~/Modules/Orchard.Scripting/Module.txt
+#| msgid "Orchard.Scripting.Lightweight.Category"
+msgid "Scripting"
+msgstr ""
+
+#: Orchard.Scripting.ScriptExpressionEvaluator
+#| msgid "Syntax error: {0}"
+msgid "Syntax error: {0}"
+msgstr ""
+
+#: ~/Modules/Orchard.Scripting/Module.txt
+#| msgid "Name"
+msgid "Scripting"
+msgstr ""
+

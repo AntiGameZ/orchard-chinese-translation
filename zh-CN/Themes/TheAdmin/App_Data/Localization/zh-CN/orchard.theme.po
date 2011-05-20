@@ -1,0 +1,100 @@
+# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Themes/TheAdmin/Theme.txt
+#| msgid "Name"
+msgid "The Admin"
+msgstr ""
+
+#: ~/Themes/TheAdmin/Theme.txt
+#| msgid "Author"
+msgid "Jon Wall"
+msgstr ""
+
+#: ~/Themes/TheAdmin/Theme.txt
+#| msgid "Tags"
+msgid "hidden, admin"
+msgstr ""
+
+#: ~/Themes/TheAdmin/Theme.txt
+#| msgid "Description"
+msgid "An admin theme not to be used for the site so don't click "Activate" (or "Uninstall"). In the near future admin themes won't be mixed in with site themes."
+msgstr ""
+
+#: ~/Themes/TheAdmin/Theme.txt
+#| msgid "Website"
+msgid "http://www.orchardproject.net"
+msgstr ""
+
+#: ~/Themes/TheAdmin/Views/Header.cshtml
+#| msgid "Project Orchard"
+msgid "Project Orchard"
+msgstr ""
+
+#: ~/Themes/TheAdmin/Views/Header.cshtml
+#| msgid "Your Site"
+msgid "Your Site"
+msgstr ""
+
+#: ~/Themes/TheAdmin/Views/Layout.cshtml
+#| msgid "Skip to navigation"
+msgid "Skip to navigation"
+msgstr ""
+
+#: ~/Themes/TheAdmin/Views/OrchardVersion.cshtml
+#| msgid "Orchard v.{0}"
+msgid "Orchard v.{0}"
+msgstr ""
+
+#: ~/Themes/TheAdmin/Views/Pager.cshtml
+#| msgid ">"
+msgid ">"
+msgstr ""
+
+#: ~/Themes/TheAdmin/Views/Pager.cshtml
+#| msgid "<"
+msgid "<"
+msgstr ""
+
+#: ~/Themes/TheAdmin/Views/User.cshtml
+#| msgid "User:"
+msgid "User:"
+msgstr ""
+
+#: ~/Themes/TheAdmin/Views/User.cshtml
+#| msgid "Logout"
+msgid "Logout"
+msgstr ""
+
+#: ~/Themes/TheAdmin/Views/Pager.cshtml
+#| msgid "Show:"
+msgid "Show:"
+msgstr ""
+
+#: ~/Themes/TheAdmin/Views/Pager.cshtml
+#| msgid "All"
+msgid "All"
+msgstr ""
+
+#: ~/Themes/TheAdmin/Views/Pager.cshtml
+#| msgid "Apply"
+msgid "Apply"
+msgstr ""
+
+#: ~/Themes/TheAdmin/Views/Pager.cshtml
+#| msgid "Showing items {0} - {1} of {2}"
+msgid "Showing items {0} - {1} of {2}"
+msgstr ""
+
+#: ~/Themes/TheAdmin/Views/Pager.cshtml
+#| msgid "<<"
+msgid "<<"
+msgstr ""
+
+#: ~/Themes/TheAdmin/Views/Pager.cshtml
+#| msgid ">>"
+msgid ">>"
+msgstr ""
+

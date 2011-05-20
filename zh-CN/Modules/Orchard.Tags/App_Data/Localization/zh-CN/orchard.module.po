@@ -1,0 +1,185 @@
+# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Tags/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr ""
+
+#: ~/Modules/Orchard.Tags/Module.txt
+#| msgid "Website"
+msgid "http://orchardproject.net"
+msgstr ""
+
+#: ~/Modules/Orchard.Tags/Module.txt
+#| msgid "Description"
+msgid "The tags module is providing basic tagging for arbitrary content types."
+msgstr ""
+
+#: Orchard.Tags.AdminMenu
+#| msgid "Tags"
+msgid "Tags"
+msgstr ""
+
+#: Orchard.Tags.AdminMenu
+#| msgid "List"
+msgid "List"
+msgstr ""
+
+#: Orchard.Tags.Controllers.AdminController
+#| msgid "Couldn't delete tag"
+msgid "Couldn't delete tag"
+msgstr ""
+
+#: Orchard.Tags.Controllers.AdminController
+#| msgid "Couldn't edit tag"
+msgid "Couldn't edit tag"
+msgstr ""
+
+#: Orchard.Tags.Controllers.AdminController
+#| msgid "Couldn't remove tag"
+msgid "Couldn't remove tag"
+msgstr ""
+
+#: Orchard.Tags.Services.TagService
+#| msgid "Couldn't rename tag: name was empty"
+msgid "Couldn't rename tag: name was empty"
+msgstr ""
+
+#: Orchard.Tags.Services.TagService
+#| msgid "Error removing tag to content item: the content item has not been created yet."
+msgid "Error removing tag to content item: the content item has not been created yet."
+msgstr ""
+
+#: Orchard.Tags.Services.TagService
+#| msgid "Error adding tag to content item: the content item has not been created yet."
+msgid "Error adding tag to content item: the content item has not been created yet."
+msgstr ""
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Edit.cshtml
+#| msgid "Manage tag: {0}"
+msgid "Manage tag: {0}"
+msgstr ""
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Edit.cshtml
+#| msgid "Tag Name"
+msgid "Tag Name"
+msgstr ""
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Edit.cshtml
+#| msgid "Save"
+msgid "Save"
+msgstr ""
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Edit.cshtml
+#| msgid "Content items tagged with {0}"
+msgid "Content items tagged with {0}"
+msgstr ""
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Edit.cshtml
+#| msgid "There is nothing tagged with {0}"
+msgid "There is nothing tagged with {0}"
+msgstr ""
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Edit.cshtml
+#| msgid "Content Type"
+msgid "Content Type"
+msgstr ""
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Edit.cshtml
+#| msgid "Name"
+msgid "Name"
+msgstr ""
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Index.cshtml
+#| msgid "Actions:"
+msgid "Actions:"
+msgstr ""
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Index.cshtml
+#| msgid "Choose action..."
+msgid "Choose action..."
+msgstr ""
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Index.cshtml
+#| msgid "Apply"
+msgid "Apply"
+msgstr ""
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Index.cshtml
+#| msgid "This is a table of the tags in your application"
+msgid "This is a table of the tags in your application"
+msgstr ""
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Index.cshtml
+#| msgid "Name"
+msgid "Name"
+msgstr ""
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Index.cshtml
+#| msgid "Edit"
+msgid "Edit"
+msgstr ""
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Index.cshtml
+#| msgid " | "
+msgid " | "
+msgstr ""
+
+#: ~/Modules/Orchard.Tags/Views/EditorTemplates/Parts/CreateTag.cshtml
+#| msgid "New Tag Name"
+msgid "New Tag Name"
+msgstr ""
+
+#: ~/Modules/Orchard.Tags/Views/EditorTemplates/Parts/CreateTag.cshtml
+#| msgid "Add Tag"
+msgid "Add Tag"
+msgstr ""
+
+#: ~/Modules/Orchard.Tags/Views/EditorTemplates/Parts/Tags.cshtml
+#| msgid "Tags"
+msgid "Tags"
+msgstr ""
+
+#: ~/Modules/Orchard.Tags/Views/Home/Index.cshtml
+#| msgid "Tags"
+msgid "Tags"
+msgstr ""
+
+#: ~/Modules/Orchard.Tags/Views/Home/Search.cshtml
+#| msgid "Tags"
+msgid "Tags"
+msgstr ""
+
+#: ~/Modules/Orchard.Tags/Views/Home/Search.cshtml
+#| msgid "Contents tagged with {0}"
+msgid "Contents tagged with {0}"
+msgstr ""
+
+#: ~/Modules/Orchard.Tags/Views/Home/Search.cshtml
+#| msgid "Contents tagged with <span>{0}</span>"
+msgid "Contents tagged with <span>{0}</span>"
+msgstr ""
+
+#: ~/Modules/Orchard.Tags/Views/Parts/Tags.ShowTags.cshtml
+#| msgid "Tags:"
+msgid "Tags:"
+msgstr ""
+
+#: ~/Modules/Orchard.Tags/Module.txt
+#| msgid "Name"
+msgid "Tags"
+msgstr ""
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Index.cshtml
+#| msgid "Tags"
+msgid "Tags"
+msgstr ""
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Index.cshtml
+#| msgid "Delete"
+msgid "Delete"
+msgstr ""
+

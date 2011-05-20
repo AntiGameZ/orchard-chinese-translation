@@ -1,0 +1,40 @@
+# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Messaging/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr ""
+
+#: ~/Modules/Orchard.Messaging/Module.txt
+#| msgid "Website"
+msgid "http://orchardproject.net"
+msgstr ""
+
+#: ~/Modules/Orchard.Messaging/Module.txt
+#| msgid "Description"
+msgid "The Messaging module adds messaging functionalities."
+msgstr ""
+
+#: ~/Modules/Orchard.Messaging/Views/EditorTemplates/Parts/MessageSettings.cshtml
+#| msgid "Messaging"
+msgid "Messaging"
+msgstr ""
+
+#: ~/Modules/Orchard.Messaging/Views/EditorTemplates/Parts/MessageSettings.cshtml
+#| msgid "Default channel service for messages"
+msgid "Default channel service for messages"
+msgstr ""
+
+#: ~/Modules/Orchard.Messaging/Views/EditorTemplates/Parts/MessageSettings.cshtml
+#| msgid "You must enable a messaging channel (e.g., Orchard.Email) before being able to send messages."
+msgid "You must enable a messaging channel (e.g., Orchard.Email) before being able to send messages."
+msgstr ""
+
+#: ~/Modules/Orchard.Messaging/Module.txt
+#| msgid "Name"
+msgid "Messaging"
+msgstr ""
+

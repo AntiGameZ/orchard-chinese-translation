@@ -1,0 +1,305 @@
+# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Themes/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr ""
+
+#: ~/Modules/Orchard.Themes/Module.txt
+#| msgid "Website"
+msgid "http://orchardproject.net"
+msgstr ""
+
+#: ~/Modules/Orchard.Themes/Module.txt
+#| msgid "Description"
+msgid "The themes module makes it possible for Orchard applications to customize the look and feel of an Orchard web site."
+msgstr ""
+
+#: Orchard.Themes.AdminMenu
+#| msgid "Themes"
+msgid "Themes"
+msgstr ""
+
+#: Orchard.Themes.Controllers.AdminController
+#| msgid "Couldn't preview the current theme"
+msgid "Couldn't preview the current theme"
+msgstr ""
+
+#: Orchard.Themes.Controllers.AdminController
+#| msgid "Couldn't enable the theme"
+msgid "Couldn't enable the theme"
+msgstr ""
+
+#: Orchard.Themes.Controllers.AdminController
+#| msgid "Couldn't disable the current theme"
+msgid "Couldn't disable the current theme"
+msgstr ""
+
+#: Orchard.Themes.Controllers.AdminController
+#| msgid "Couldn't set the current theme"
+msgid "Couldn't set the current theme"
+msgstr ""
+
+#: Orchard.Themes.Controllers.AdminController
+#| msgid "Couldn't update theme"
+msgid "Couldn't update theme"
+msgstr ""
+
+#: Orchard.Themes.Controllers.AdminController
+#| msgid "The theme {0} was updated succesfuly"
+msgid "The theme {0} was updated succesfuly"
+msgstr ""
+
+#: Orchard.Themes.Controllers.AdminController
+#| msgid "An error occured while updating the theme {0}: {1}"
+msgid "An error occured while updating the theme {0}: {1}"
+msgstr ""
+
+#: Orchard.Themes.Services.ThemeService
+#| msgid "The theme \"{0}\" is already in the stack of themes that need features disabled."
+msgid "The theme \"{0}\" is already in the stack of themes that need features disabled."
+msgstr ""
+
+#: Orchard.Themes.Services.ThemeService
+#| msgid "The theme \"{0}\" is already in the stack of themes that need features enabled."
+msgid "The theme \"{0}\" is already in the stack of themes that need features enabled."
+msgstr ""
+
+#: ~/Modules/Orchard.Themes/Views/ThemePreview.cshtml
+#| msgid "You are previewing: "
+msgid "You are previewing: "
+msgstr ""
+
+#: ~/Modules/Orchard.Themes/Views/ThemePreview.cshtml
+#| msgid "Preview"
+msgid "Preview"
+msgstr ""
+
+#: ~/Modules/Orchard.Themes/Views/ThemePreview.cshtml
+#| msgid "Apply"
+msgid "Apply"
+msgstr ""
+
+#: ~/Modules/Orchard.Themes/Views/ThemePreview.cshtml
+#| msgid "Apply this theme"
+msgid "Apply this theme"
+msgstr ""
+
+#: ~/Modules/Orchard.Themes/Views/ThemePreview.cshtml
+#| msgid "Cancel"
+msgid "Cancel"
+msgstr ""
+
+#: ~/Modules/Orchard.Themes/Views/Admin/Index.cshtml
+#| msgid "There is no current theme in the application. The built-in theme will be used."
+msgid "There is no current theme in the application. The built-in theme will be used."
+msgstr ""
+
+#: ~/Modules/Orchard.Themes/Views/Admin/Index.cshtml
+#| msgid "Install a new Theme"
+msgid "Install a new Theme"
+msgstr ""
+
+#: ~/Modules/Orchard.Themes/Views/Admin/Index.cshtml
+#| msgid "Current Theme"
+msgid "Current Theme"
+msgstr ""
+
+#: ~/Modules/Orchard.Themes/Module.txt
+#| msgid "Name"
+msgid "Themes"
+msgstr ""
+
+#: Orchard.Themes.Commands.ThemeCommands
+#| msgid "{0}"
+msgid "{0}"
+msgstr ""
+
+#: Orchard.Themes.Commands.ThemeCommands
+#| msgid "Current theme"
+msgid "Current theme"
+msgstr ""
+
+#: Orchard.Themes.Commands.ThemeCommands
+#| msgid "--------------------------"
+msgid "--------------------------"
+msgstr ""
+
+#: Orchard.Themes.Commands.ThemeCommands
+#| msgid "List of available themes"
+msgid "List of available themes"
+msgstr ""
+
+#: Orchard.Themes.Commands.ThemeCommands
+#| msgid "  Name: {0}"
+msgid "  Name: {0}"
+msgstr ""
+
+#: Orchard.Themes.Commands.ThemeCommands
+#| msgid "Enabled"
+msgid "Enabled"
+msgstr ""
+
+#: Orchard.Themes.Commands.ThemeCommands
+#| msgid "Disabled"
+msgid "Disabled"
+msgstr ""
+
+#: Orchard.Themes.Commands.ThemeCommands
+#| msgid "Yes"
+msgid "Yes"
+msgstr ""
+
+#: Orchard.Themes.Commands.ThemeCommands
+#| msgid "No"
+msgid "No"
+msgstr ""
+
+#: Orchard.Themes.Commands.ThemeCommands
+#| msgid "    Author:        {0}"
+msgid "    Author:        {0}"
+msgstr ""
+
+#: Orchard.Themes.Commands.ThemeCommands
+#| msgid "    Version:       {0}"
+msgid "    Version:       {0}"
+msgstr ""
+
+#: Orchard.Themes.Commands.ThemeCommands
+#| msgid "    Description:   {0}"
+msgid "    Description:   {0}"
+msgstr ""
+
+#: Orchard.Themes.Commands.ThemeCommands
+#| msgid "    Website:       {0}"
+msgid "    Website:       {0}"
+msgstr ""
+
+#: Orchard.Themes.Commands.ThemeCommands
+#| msgid "Could not find theme {0}"
+msgid "Could not find theme {0}"
+msgstr ""
+
+#: Orchard.Themes.Commands.ThemeCommands
+#| msgid "Enabling theme \"{0}\"..."
+msgid "Enabling theme \"{0}\"..."
+msgstr ""
+
+#: Orchard.Themes.Commands.ThemeCommands
+#| msgid "Activating theme \"{0}\"..."
+msgid "Activating theme \"{0}\"..."
+msgstr ""
+
+#: Orchard.Themes.Commands.ThemeCommands
+#| msgid "Theme \"{0}\" activated"
+msgid "Theme \"{0}\" activated"
+msgstr ""
+
+#: Orchard.Themes.AdminMenu
+#| msgid "Installed"
+msgid "Installed"
+msgstr ""
+
+#: Orchard.Themes.Controllers.AdminController
+#| msgid "Listing themes failed: {0}"
+msgid "Listing themes failed: {0}"
+msgstr ""
+
+#: Orchard.Themes.Controllers.AdminController
+#| msgid "Previewing theme failed: {0}"
+msgid "Previewing theme failed: {0}"
+msgstr ""
+
+#: Orchard.Themes.Controllers.AdminController
+#| msgid "Enabling theme failed: {0}"
+msgid "Enabling theme failed: {0}"
+msgstr ""
+
+#: Orchard.Themes.Controllers.AdminController
+#| msgid "Disabling theme failed: {0}"
+msgid "Disabling theme failed: {0}"
+msgstr ""
+
+#: Orchard.Themes.Controllers.AdminController
+#| msgid "Activating theme failed: {0}"
+msgid "Activating theme failed: {0}"
+msgstr ""
+
+#: ~/Modules/Orchard.Themes/Views/ThemeEntry.cshtml
+#| msgid "Activate"
+msgid "Activate"
+msgstr ""
+
+#: ~/Modules/Orchard.Themes/Views/ThemeEntry.cshtml
+#| msgid "Set Current"
+msgid "Set Current"
+msgstr ""
+
+#: ~/Modules/Orchard.Themes/Views/ThemeEntry.cshtml
+#| msgid "Preview"
+msgid "Preview"
+msgstr ""
+
+#: ~/Modules/Orchard.Themes/Views/ThemeEntry.cshtml
+#| msgid "By"
+msgid "By"
+msgstr ""
+
+#: ~/Modules/Orchard.Themes/Views/ThemeEntry.cshtml
+#| msgid "Version:"
+msgid "Version:"
+msgstr ""
+
+#: ~/Modules/Orchard.Themes/Views/ThemeEntry.cshtml
+#| msgid "Disable"
+msgid "Disable"
+msgstr ""
+
+#: ~/Modules/Orchard.Themes/Views/ThemeEntry.cshtml
+#| msgid "Enable"
+msgid "Enable"
+msgstr ""
+
+#: ~/Modules/Orchard.Themes/Views/ThemeEntry.cshtml
+#| msgid "Update"
+msgid "Update"
+msgstr ""
+
+#: ~/Modules/Orchard.Themes/Views/ThemeEntry.cshtml
+#| msgid "Uninstall"
+msgid "Uninstall"
+msgstr ""
+
+#: ~/Modules/Orchard.Themes/Views/ThemeEntry.Current.cshtml
+#| msgid "By"
+msgid "By"
+msgstr ""
+
+#: ~/Modules/Orchard.Themes/Views/ThemeEntry.Current.cshtml
+#| msgid "Version:"
+msgid "Version:"
+msgstr ""
+
+#: ~/Modules/Orchard.Themes/Views/Admin/Index.cshtml
+#| msgid "Themes"
+msgid "Themes"
+msgstr ""
+
+#: ~/Modules/Orchard.Themes/Views/Admin/Index.cshtml
+#| msgid "Available"
+msgid "Available"
+msgstr ""
+
+#: ~/Modules/Orchard.Themes/Views/Admin/Index.cshtml
+#| msgid "Install a theme from your computer"
+msgid "Install a theme from your computer"
+msgstr ""
+
+#: ~/Modules/Orchard.Themes/Views/Admin/Index.cshtml
+#| msgid "There are no additional themes installed."
+msgid "There are no additional themes installed."
+msgstr ""
+

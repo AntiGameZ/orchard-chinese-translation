@@ -1,0 +1,575 @@
+# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Comments/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Module.txt
+#| msgid "Website"
+msgid "http://orchardproject.net"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Module.txt
+#| msgid "Description"
+msgid "The comments system implemented by this module can be applied to arbitrary Orchard content types, such as blogs and pages. It includes comment validation and spam protection through the Akismet service."
+msgstr ""
+
+#: Orchard.Comments.AdminMenu
+#| msgid "Comments"
+msgid "Comments"
+msgstr ""
+
+#: Orchard.Comments.AdminMenu
+#| msgid "List"
+msgid "List"
+msgstr ""
+
+#: Orchard.Comments.Shapes
+#| msgid "({0} pending)"
+msgid "({0} pending)"
+msgstr ""
+
+#: Orchard.Comments.Annotations.RequiredAttribute
+#| msgid "You must provide a {0} in order to comment."
+msgid "You must provide a {0} in order to comment."
+msgstr ""
+
+#: Orchard.Comments.Annotations.RequiredAttribute
+#| msgid "You must provide a Comment."
+msgid "You must provide a Comment."
+msgstr ""
+
+#: Orchard.Comments.Annotations.RequiredAttribute
+#| msgid "The {0} is not valid."
+msgid "The {0} is not valid."
+msgstr ""
+
+#: Orchard.Comments.Controllers.AdminController
+#| msgid "Couldn't moderate comment"
+msgid "Couldn't moderate comment"
+msgstr ""
+
+#: Orchard.Comments.Controllers.AdminController
+#| msgid "Couldn't delete comment"
+msgid "Couldn't delete comment"
+msgstr ""
+
+#: Orchard.Comments.Controllers.AdminController
+#| msgid "Couldn't disable comments"
+msgid "Couldn't disable comments"
+msgstr ""
+
+#: Orchard.Comments.Controllers.AdminController
+#| msgid "Couldn't enable comments"
+msgid "Couldn't enable comments"
+msgstr ""
+
+#: Orchard.Comments.Controllers.AdminController
+#| msgid "Couldn't edit comment"
+msgid "Couldn't edit comment"
+msgstr ""
+
+#: Orchard.Comments.Controllers.AdminController
+#| msgid "Couldn't approve comment"
+msgid "Couldn't approve comment"
+msgstr ""
+
+#: Orchard.Comments.Controllers.AdminController
+#| msgid "Couldn't unapprove comment"
+msgid "Couldn't unapprove comment"
+msgstr ""
+
+#: Orchard.Comments.Controllers.AdminController
+#| msgid "Couldn't mark comment as spam"
+msgid "Couldn't mark comment as spam"
+msgstr ""
+
+#: Orchard.Comments.Controllers.CommentController
+#| msgid "Couldn't add comment"
+msgid "Couldn't add comment"
+msgstr ""
+
+#: Orchard.Comments.Controllers.CommentController
+#| msgid "Your comment will appear after the site administrator approves it."
+msgid "Your comment will appear after the site administrator approves it."
+msgstr ""
+
+#: Orchard.Comments.Feeds.CommentFeedItemBuilder
+#| msgid "Comment on {0} by {1}"
+msgid "Comment on {0} by {1}"
+msgstr ""
+
+#: Orchard.Comments.Services.AkismetCommentValidator
+#| msgid "Please configure your Akismet key for spam protection"
+msgid "Please configure your Akismet key for spam protection"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Parts.Comments.Count.SummaryAdmin.cshtml
+#| msgid " | "
+msgid " | "
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Parts.Comments.cshtml
+#| msgid "Comments have been disabled for this content."
+msgid "Comments have been disabled for this content."
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Parts.Comments.cshtml
+#| msgid "Add a Comment"
+msgid "Add a Comment"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Parts.Comments.cshtml
+#| msgid "log on"
+msgid "log on"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Parts.Comments.cshtml
+#| msgid "Name"
+msgid "Name"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Parts.Comments.cshtml
+#| msgid "Email"
+msgid "Email"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Parts.Comments.cshtml
+#| msgid "Url"
+msgid "Url"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Parts.Comments.cshtml
+#| msgid "Hi, {0}!"
+msgid "Hi, {0}!"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Parts.Comments.cshtml
+#| msgid "Comment"
+msgid "Comment"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Parts.Comments.cshtml
+#| msgid "Submit Comment"
+msgid "Submit Comment"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Comments for {0}"
+msgid "Comments for {0}"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Enable Comments"
+msgid "Enable Comments"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Disable Comments"
+msgid "Disable Comments"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Actions:"
+msgid "Actions:"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Choose action..."
+msgid "Choose action..."
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Approve"
+msgid "Approve"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Unapprove"
+msgid "Unapprove"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Mark as Spam"
+msgid "Mark as Spam"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Apply"
+msgid "Apply"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Filter:"
+msgid "Filter:"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "All Comments"
+msgid "All Comments"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Approved Comments"
+msgid "Approved Comments"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Pending Comments"
+msgid "Pending Comments"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Spam"
+msgid "Spam"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "This is a table of the comments for the content item"
+msgid "This is a table of the comments for the content item"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Status"
+msgid "Status"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Author"
+msgid "Author"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Comment"
+msgid "Comment"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Date"
+msgid "Date"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Pending"
+msgid "Pending"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Approved"
+msgid "Approved"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid " ..."
+msgid " ..."
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Edit Comment"
+msgid "Edit Comment"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Edit"
+msgid "Edit"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Edit.cshtml
+#| msgid "Edit Comment"
+msgid "Edit Comment"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Edit.cshtml
+#| msgid "Name"
+msgid "Name"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Edit.cshtml
+#| msgid "Email"
+msgid "Email"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Edit.cshtml
+#| msgid "Url"
+msgid "Url"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Edit.cshtml
+#| msgid "Body"
+msgid "Body"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Edit.cshtml
+#| msgid "Pending"
+msgid "Pending"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Edit.cshtml
+#| msgid "Approved"
+msgid "Approved"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Edit.cshtml
+#| msgid "Mark as spam"
+msgid "Mark as spam"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Edit.cshtml
+#| msgid "Save"
+msgid "Save"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Actions:"
+msgid "Actions:"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Choose action..."
+msgid "Choose action..."
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Approve"
+msgid "Approve"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Unapprove"
+msgid "Unapprove"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Mark as Spam"
+msgid "Mark as Spam"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Apply"
+msgid "Apply"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Filter:"
+msgid "Filter:"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "All Comments"
+msgid "All Comments"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Approved Comments"
+msgid "Approved Comments"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Pending Comments"
+msgid "Pending Comments"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Spam"
+msgid "Spam"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "This is a table of the comments in your application"
+msgid "This is a table of the comments in your application"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Status"
+msgid "Status"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Author"
+msgid "Author"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Comment"
+msgid "Comment"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Commented On"
+msgid "Commented On"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Actions"
+msgid "Actions"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Pending"
+msgid "Pending"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Approved"
+msgid "Approved"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "[Empty]"
+msgid "[Empty]"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid " | "
+msgid " | "
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Edit"
+msgid "Edit"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/EditorTemplates/Parts.Comments.Comments.cshtml
+#| msgid "Comments"
+msgid "Comments"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/EditorTemplates/Parts.Comments.Comments.cshtml
+#| msgid "Allow new comments"
+msgid "Allow new comments"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/EditorTemplates/Parts.Comments.Comments.cshtml
+#| msgid "Enable to show the comment form. Disabling still allows the existing comments to be shown but does not allow the conversation to continue."
+msgid "Enable to show the comment form. Disabling still allows the existing comments to be shown but does not allow the conversation to continue."
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/EditorTemplates/Parts.Comments.SiteSettings.cshtml
+#| msgid "Comments"
+msgid "Comments"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/EditorTemplates/Parts.Comments.SiteSettings.cshtml
+#| msgid "Comments must be approved before they appear"
+msgid "Comments must be approved before they appear"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/EditorTemplates/Parts.Comments.SiteSettings.cshtml
+#| msgid "Enable spam protection"
+msgid "Enable spam protection"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/EditorTemplates/Parts.Comments.SiteSettings.cshtml
+#| msgid "Akismet key"
+msgid "Akismet key"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/EditorTemplates/Parts.Comments.SiteSettings.cshtml
+#| msgid "Blog URL"
+msgid "Blog URL"
+msgstr ""
+
+#: Orchard.Comments.Shapes
+#| msgid "1 comment"
+msgid "1 comment"
+msgstr ""
+
+#: Orchard.Comments.Shapes
+#| msgid "{0} comments"
+msgid "{0} comments"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Parts.Comments.Count.cshtml
+#| msgid "1 Comment"
+msgid "1 Comment"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Parts.Comments.Count.cshtml
+#| msgid "{0} Comments"
+msgid "{0} Comments"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Parts.Comments.cshtml
+#| msgid "1 Comment"
+msgid "1 Comment"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Parts.Comments.cshtml
+#| msgid "{0} Comments"
+msgid "{0} Comments"
+msgstr ""
+
+#: Orchard.Comments.Controllers.AdminController
+#| msgid "Listing comments failed: {0}"
+msgid "Listing comments failed: {0}"
+msgstr ""
+
+#: Orchard.Comments.Controllers.AdminController
+#| msgid "Editing comments failed: {0}"
+msgid "Editing comments failed: {0}"
+msgstr ""
+
+#: Orchard.Comments.Controllers.AdminController
+#| msgid "Disabling Comments failed: {0}"
+msgid "Disabling Comments failed: {0}"
+msgstr ""
+
+#: Orchard.Comments.Controllers.AdminController
+#| msgid "Enabling Comments failed: {0}"
+msgid "Enabling Comments failed: {0}"
+msgstr ""
+
+#: Orchard.Comments.Controllers.AdminController
+#| msgid "Editing comment failed: {0}"
+msgid "Editing comment failed: {0}"
+msgstr ""
+
+#: Orchard.Comments.Controllers.AdminController
+#| msgid "Approving comment failed: {0}"
+msgid "Approving comment failed: {0}"
+msgstr ""
+
+#: Orchard.Comments.Controllers.AdminController
+#| msgid "Unapproving comment failed: {0}"
+msgid "Unapproving comment failed: {0}"
+msgstr ""
+
+#: Orchard.Comments.Controllers.AdminController
+#| msgid "Marking comment as spam failed: {0}"
+msgid "Marking comment as spam failed: {0}"
+msgstr ""
+
+#: Orchard.Comments.Controllers.AdminController
+#| msgid "Deleting comment failed: {0}"
+msgid "Deleting comment failed: {0}"
+msgstr ""
+
+#: Orchard.Comments.Handlers.CommentSettingsPartHandler
+#| msgid "Comments"
+msgid "Comments"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Delete"
+msgid "Delete"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Comments"
+msgid "Comments"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Delete"
+msgid "Delete"
+msgstr ""
+
+#: ~/Modules/Orchard.Comments/Module.txt
+#| msgid "Name"
+msgid "Comments"
+msgstr ""
+

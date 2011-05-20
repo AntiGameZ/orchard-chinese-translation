@@ -1,0 +1,415 @@
+# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.ContentTypes/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Module.txt
+#| msgid "Website"
+msgid "http://orchardproject.net"
+msgstr ""
+
+#: Orchard.ContentTypes.AdminMenu
+#| msgid "Content"
+msgid "Content"
+msgstr ""
+
+#: Orchard.ContentTypes.AdminMenu
+#| msgid "Content Types"
+msgid "Content Types"
+msgstr ""
+
+#: Orchard.ContentTypes.Controllers.AdminController
+#| msgid "Not allowed to create a content type."
+msgid "Not allowed to create a content type."
+msgstr ""
+
+#: Orchard.ContentTypes.Controllers.AdminController
+#| msgid "The Display Name name can't be empty."
+msgid "The Display Name name can't be empty."
+msgstr ""
+
+#: Orchard.ContentTypes.Controllers.AdminController
+#| msgid "A type with the same Id already exists."
+msgid "A type with the same Id already exists."
+msgstr ""
+
+#: Orchard.ContentTypes.Controllers.AdminController
+#| msgid "A type with the same Name already exists."
+msgid "A type with the same Name already exists."
+msgstr ""
+
+#: Orchard.ContentTypes.Controllers.AdminController
+#| msgid "The \"{0}\" content type has been created."
+msgid "The \"{0}\" content type has been created."
+msgstr ""
+
+#: Orchard.ContentTypes.Controllers.AdminController
+#| msgid "Not allowed to edit a content type."
+msgid "Not allowed to edit a content type."
+msgstr ""
+
+#: Orchard.ContentTypes.Controllers.AdminController
+#| msgid "The Content Type name can't be empty."
+msgid "The Content Type name can't be empty."
+msgstr ""
+
+#: Orchard.ContentTypes.Controllers.AdminController
+#| msgid "\"{0}\" settings have been saved."
+msgid "\"{0}\" settings have been saved."
+msgstr ""
+
+#: Orchard.ContentTypes.Controllers.AdminController
+#| msgid "The \"{0}\" part has been added."
+msgid "The \"{0}\" part has been added."
+msgstr ""
+
+#: Orchard.ContentTypes.Controllers.AdminController
+#| msgid "The \"{0}\" part has been removed."
+msgid "The \"{0}\" part has been removed."
+msgstr ""
+
+#: Orchard.ContentTypes.Controllers.AdminController
+#| msgid "Not allowed to create a content part."
+msgid "Not allowed to create a content part."
+msgstr ""
+
+#: Orchard.ContentTypes.Controllers.AdminController
+#| msgid "The content part could not be created."
+msgid "The content part could not be created."
+msgstr ""
+
+#: Orchard.ContentTypes.Controllers.AdminController
+#| msgid "The \"{0}\" content part has been created."
+msgid "The \"{0}\" content part has been created."
+msgstr ""
+
+#: Orchard.ContentTypes.Controllers.AdminController
+#| msgid "Not allowed to edit a content part."
+msgid "Not allowed to edit a content part."
+msgstr ""
+
+#: Orchard.ContentTypes.Controllers.AdminController
+#| msgid "The \"{0}\" field was not added. {1}"
+msgid "The \"{0}\" field was not added. {1}"
+msgstr ""
+
+#: Orchard.ContentTypes.Controllers.AdminController
+#| msgid "The \"{0}\" field has been added."
+msgid "The \"{0}\" field has been added."
+msgstr ""
+
+#: Orchard.ContentTypes.Controllers.AdminController
+#| msgid "The \"{0}\" field has been removed."
+msgid "The \"{0}\" field has been removed."
+msgstr ""
+
+#: Orchard.ContentTypes.Services.ContentDefinitionService
+#| msgid "Fields must have a name containing no spaces or symbols."
+msgid "Fields must have a name containing no spaces or symbols."
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/AddFieldTo.cshtml
+#| msgid "Add New Field To \"{0}\""
+msgid "Add New Field To \"{0}\""
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/AddFieldTo.cshtml
+#| msgid "Name"
+msgid "Name"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/AddFieldTo.cshtml
+#| msgid "Use no spaces or special characters. For example, \"MyCustomField\""
+msgid "Use no spaces or special characters. For example, \"MyCustomField\""
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/AddFieldTo.cshtml
+#| msgid "Field Type"
+msgid "Field Type"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/AddFieldTo.cshtml
+#| msgid "Save"
+msgid "Save"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/AddPartsTo.cshtml
+#| msgid "Add Parts To \"{0}\""
+msgid "Add Parts To \"{0}\""
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/AddPartsTo.cshtml
+#| msgid "Save"
+msgid "Save"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/Create.cshtml
+#| msgid "New Content Type"
+msgid "New Content Type"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/Create.cshtml
+#| msgid "Display Name"
+msgid "Display Name"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/Create.cshtml
+#| msgid "Content Type Id"
+msgid "Content Type Id"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/Create.cshtml
+#| msgid "Create"
+msgid "Create"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/CreatePart.cshtml
+#| msgid "New Content Part"
+msgid "New Content Part"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/CreatePart.cshtml
+#| msgid "Name"
+msgid "Name"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/CreatePart.cshtml
+#| msgid "Use no spaces or special characters. For example, \"MyCustomPart\""
+msgid "Use no spaces or special characters. For example, \"MyCustomPart\""
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/CreatePart.cshtml
+#| msgid "Create"
+msgid "Create"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/Edit.cshtml
+#| msgid "Edit Content Type"
+msgid "Edit Content Type"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/Edit.cshtml
+#| msgid "Content Types"
+msgid "Content Types"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/Edit.cshtml
+#| msgid " &#62; "
+msgid " &#62; "
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/Edit.cshtml
+#| msgid "Display Name"
+msgid "Display Name"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/Edit.cshtml
+#| msgid "Content Type Id: {0}"
+msgid "Content Type Id: {0}"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/Edit.cshtml
+#| msgid "Fields"
+msgid "Fields"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/Edit.cshtml
+#| msgid "Parts"
+msgid "Parts"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/Edit.cshtml
+#| msgid "Save"
+msgid "Save"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/EditPart.cshtml
+#| msgid "Edit Part"
+msgid "Edit Part"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/EditPart.cshtml
+#| msgid "Content Types"
+msgid "Content Types"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/EditPart.cshtml
+#| msgid " &#62; "
+msgid " &#62; "
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/EditPart.cshtml
+#| msgid "Content Parts"
+msgid "Content Parts"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/EditPart.cshtml
+#| msgid "Name"
+msgid "Name"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/EditPart.cshtml
+#| msgid "Fields"
+msgid "Fields"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/EditPart.cshtml
+#| msgid "Add"
+msgid "Add"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/EditPart.cshtml
+#| msgid "Save"
+msgid "Save"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/List.cshtml
+#| msgid "Manage Content Types"
+msgid "Manage Content Types"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/List.cshtml
+#| msgid "Create new type"
+msgid "Create new type"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/List.cshtml
+#| msgid "Content Parts"
+msgid "Content Parts"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/ListParts.cshtml
+#| msgid "Content Parts"
+msgid "Content Parts"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/ListParts.cshtml
+#| msgid "Content Types"
+msgid "Content Types"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/ListParts.cshtml
+#| msgid " &#62; "
+msgid " &#62; "
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/ListParts.cshtml
+#| msgid "Create new part"
+msgid "Create new part"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/RemoveFieldFrom.cshtml
+#| msgid "Remove the \"{0}\" part from  \"{1}\""
+msgid "Remove the \"{0}\" part from  \"{1}\""
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/RemoveFieldFrom.cshtml
+#| msgid "Looks like you couldn't use the fancy way to remove the field. Try hitting the button below to force the issue."
+msgid "Looks like you couldn't use the fancy way to remove the field. Try hitting the button below to force the issue."
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/RemoveFieldFrom.cshtml
+#| msgid "Remove"
+msgid "Remove"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/RemovePartFrom.cshtml
+#| msgid "Remove the \"{0}\" part from  \"{1}\""
+msgid "Remove the \"{0}\" part from  \"{1}\""
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/RemovePartFrom.cshtml
+#| msgid "Looks like you couldn't use the fancy way to remove the part. Try hitting the button below to force the issue."
+msgid "Looks like you couldn't use the fancy way to remove the part. Try hitting the button below to force the issue."
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/RemovePartFrom.cshtml
+#| msgid "Remove"
+msgid "Remove"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/DisplayTemplates/EditPartViewModel.cshtml
+#| msgid "Edit"
+msgid "Edit"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/DisplayTemplates/EditTypeViewModel.cshtml
+#| msgid "Create New {0}"
+msgid "Create New {0}"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/DisplayTemplates/EditTypeViewModel.cshtml
+#| msgid "List Items"
+msgid "List Items"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/DisplayTemplates/EditTypeViewModel.cshtml
+#| msgid " | "
+msgid " | "
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/DisplayTemplates/EditTypeViewModel.cshtml
+#| msgid "Edit"
+msgid "Edit"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/DisplayTemplates/Settings.cshtml
+#| msgid "Global Settings"
+msgid "Global Settings"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/EditorTemplates/ContentTypePart.ascx
+#| msgid "Remove"
+msgid "Remove"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/EditorTemplates/Field.cshtml
+#| msgid "Remove"
+msgid "Remove"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/EditorTemplates/TypePart.cshtml
+#| msgid "Remove"
+msgid "Remove"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/EditorTemplates/TypePart.cshtml
+#| msgid "{0} Settings:"
+msgid "{0} Settings:"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Module.txt
+#| msgid "Description"
+msgid "ContentTypes modules enables the creation and alteration of content types not based on code."
+msgstr ""
+
+#: Orchard.ContentTypes.Services.ContentDefinitionService
+#| msgid "Cannot add part named '{0}'. It already exists."
+msgid "Cannot add part named '{0}'. It already exists."
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/AddPartsTo.cshtml
+#| msgid "Choose the Parts to add to this Content Type.  The <b>Common</b> part should be included in most types. It gives the items an owner as well as a creation, publication and last modification date stamps. In addition to the Common part, adding the <b>Containable</b> part makes it possible to add content items of this type to a <b>List</b>."
+msgid "Choose the Parts to add to this Content Type.  The <b>Common</b> part should be included in most types. It gives the items an owner as well as a creation, publication and last modification date stamps. In addition to the Common part, adding the <b>Containable</b> part makes it possible to add content items of this type to a <b>List</b>."
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/Edit.cshtml
+#| msgid "Add Field"
+msgid "Add Field"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Views/Admin/Edit.cshtml
+#| msgid "Add Parts"
+msgid "Add Parts"
+msgstr ""
+
+#: ~/Modules/Orchard.ContentTypes/Module.txt
+#| msgid "Name"
+msgid "ContentTypes"
+msgstr ""
+

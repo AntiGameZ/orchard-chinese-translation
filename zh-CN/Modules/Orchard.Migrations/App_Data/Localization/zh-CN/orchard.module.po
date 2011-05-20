@@ -1,0 +1,55 @@
+# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Migrations/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr ""
+
+#: ~/Modules/Orchard.Migrations/Module.txt
+#| msgid "Website"
+msgid "http://orchardproject.net"
+msgstr ""
+
+#: ~/Modules/Orchard.Migrations/Module.txt
+#| msgid "Description"
+msgid "Data migration commands."
+msgstr ""
+
+#: ~/Modules/Orchard.Migrations/Module.txt
+#| msgid "DatabaseUpdate.Name"
+msgid "Database Update"
+msgstr ""
+
+#: ~/Modules/Orchard.Migrations/Module.txt
+#| msgid "DatabaseUpdate.Description"
+msgid "Commands for updating the database schema according to the definition of the "Record" classes in code."
+msgstr ""
+
+#: ~/Modules/Orchard.Migrations/Module.txt
+#| msgid "DatabaseUpdate.Category"
+msgid "Developer"
+msgstr ""
+
+#: Orchard.Migrations.Commands.DatabaseUpdateCommands
+#| msgid "An error occured while updating the database: "
+msgid "An error occured while updating the database: "
+msgstr ""
+
+#: Orchard.Migrations.Commands.DatabaseUpdateCommands
+#| msgid "An error occured while creating the tables: "
+msgid "An error occured while creating the tables: "
+msgstr ""
+
+#: Orchard.Migrations.Commands.DataMigrationCommands
+#| msgid "An error occured while upgrading the database: "
+msgid "An error occured while upgrading the database: "
+msgstr ""
+
+#: ~/Modules/Orchard.Migrations/Module.txt
+#| msgid "Name"
+msgid "Migrations"
+msgstr ""
+

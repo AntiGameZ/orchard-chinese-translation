@@ -1,0 +1,75 @@
+# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Email/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr ""
+
+#: ~/Modules/Orchard.Email/Module.txt
+#| msgid "Website"
+msgid "http://orchardproject.net"
+msgstr ""
+
+#: ~/Modules/Orchard.Email/Module.txt
+#| msgid "Description"
+msgid "The Email Messaging module adds Email sending functionalities."
+msgstr ""
+
+#: Orchard.Email.Services.MissingSettingsBanner:
+#| msgid "The SMTP settings needs to be configured."
+msgid "The SMTP settings needs to be configured."
+msgstr ""
+
+#: ~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml
+#| msgid "Sender email address"
+msgid "Sender email address"
+msgstr ""
+
+#: ~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml
+#| msgid "Host name"
+msgid "Host name"
+msgstr ""
+
+#: ~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml
+#| msgid "Port number"
+msgid "Port number"
+msgstr ""
+
+#: ~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml
+#| msgid "Enable SSL communications"
+msgid "Enable SSL communications"
+msgstr ""
+
+#: ~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml
+#| msgid "Require credentials"
+msgid "Require credentials"
+msgstr ""
+
+#: ~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml
+#| msgid "User name"
+msgid "User name"
+msgstr ""
+
+#: ~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml
+#| msgid "Password"
+msgid "Password"
+msgstr ""
+
+#: ~/Modules/Orchard.Email/Module.txt
+#| msgid "Name"
+msgid "Email Messaging"
+msgstr ""
+
+#: Orchard.Email.Handlers.SmtpSettingsPartHandler
+#| msgid "Email"
+msgid "Email"
+msgstr ""
+
+#: ~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml
+#| msgid "Email"
+msgid "Email"
+msgstr ""
+

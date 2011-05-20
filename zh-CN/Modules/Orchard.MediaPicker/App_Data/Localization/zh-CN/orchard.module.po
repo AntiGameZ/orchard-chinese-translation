@@ -1,0 +1,210 @@
+# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.MediaPicker/Module.txt
+#| msgid "Name"
+msgid "Media Picker"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Module.txt
+#| msgid "Website"
+msgid "http://orchardproject.net"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Module.txt
+#| msgid "Description"
+msgid "Description for the module"
+msgstr ""
+
+#: Orchard.MediaPicker.Controllers.AdminController
+#| msgid "Couldn't create media folder"
+msgid "Couldn't create media folder"
+msgstr ""
+
+#: Orchard.MediaPicker.Controllers.AdminController
+#| msgid "Creating Folder failed: {0}"
+msgid "Creating Folder failed: {0}"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Index.cshtml
+#| msgid "Pick Image"
+msgid "Pick Image"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Index.cshtml
+#| msgid "Update/Upload Image"
+msgid "Update/Upload Image"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Index.cshtml
+#| msgid "Insert/Upload Image"
+msgid "Insert/Upload Image"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Index.cshtml
+#| msgid "Browse Media"
+msgid "Browse Media"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "Media Folders"
+msgid "Media Folders"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "Create Folder"
+msgid "Create Folder"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "This is a table of the images currently available for use in your application."
+msgid "This is a table of the images currently available for use in your application."
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "Folder"
+msgid "Folder"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "Added on"
+msgid "Added on"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "Size"
+msgid "Size"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "Upload an image from your computer"
+msgid "Upload an image from your computer"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "URL"
+msgid "URL"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "Alternative Text"
+msgid "Alternative Text"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "Class"
+msgid "Class"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "Style"
+msgid "Style"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "Alignment"
+msgid "Alignment"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "Width"
+msgid "Width"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "Height"
+msgid "Height"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "Lock Aspect Ratio"
+msgid "Lock Aspect Ratio"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "Insert"
+msgid "Insert"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "Update"
+msgid "Update"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "Cancel"
+msgid "Cancel"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml
+#| msgid "Preview of Image"
+msgid "Preview of Image"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml
+#| msgid "URL for the image resource"
+msgid "URL for the image resource"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml
+#| msgid "Upload an image from your computer"
+msgid "Upload an image from your computer"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml
+#| msgid "Alternative Text"
+msgid "Alternative Text"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml
+#| msgid "Class"
+msgid "Class"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml
+#| msgid "Style"
+msgid "Style"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml
+#| msgid "Alignment"
+msgid "Alignment"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml
+#| msgid "Width"
+msgid "Width"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml
+#| msgid "Height"
+msgid "Height"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml
+#| msgid "Lock Aspect Ratio"
+msgid "Lock Aspect Ratio"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml
+#| msgid "Insert"
+msgid "Insert"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml
+#| msgid "Update"
+msgid "Update"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml
+#| msgid "Cancel"
+msgid "Cancel"
+msgstr ""
+

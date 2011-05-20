@@ -1,0 +1,25 @@
+# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Scripting.Dlr/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr ""
+
+#: ~/Modules/Orchard.Scripting.Dlr/Module.txt
+#| msgid "Website"
+msgid "http://orchardproject.net"
+msgstr ""
+
+#: ~/Modules/Orchard.Scripting.Dlr/Module.txt
+#| msgid "Description"
+msgid "The DLR scripting module enables the possibility to execute scripts using the DLR."
+msgstr ""
+
+#: ~/Modules/Orchard.Scripting.Dlr/Module.txt
+#| msgid "Name"
+msgid "DLR Scripting"
+msgstr ""
+

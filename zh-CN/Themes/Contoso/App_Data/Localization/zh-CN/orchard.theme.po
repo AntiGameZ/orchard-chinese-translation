@@ -1,0 +1,35 @@
+# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Themes/Contoso/Theme.txt
+#| msgid "Name"
+msgid "Contoso"
+msgstr ""
+
+#: ~/Themes/Contoso/Theme.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr ""
+
+#: ~/Themes/Contoso/Theme.txt
+#| msgid "Description"
+msgid "A subtle and simple CMS theme perfect for any modern product or service business website."
+msgstr ""
+
+#: ~/Themes/Contoso/Theme.txt
+#| msgid "Tags"
+msgid "business, cms, modern, simple, subtle, product, service"
+msgstr ""
+
+#: ~/Themes/Contoso/Theme.txt
+#| msgid "Website"
+msgid "http://www.orchardproject.net"
+msgstr ""
+
+#: ~/Themes/Contoso/Views/BadgeOfHonor.cshtml
+#| msgid "&#169; Contoso Company 2010."
+msgid "&#169; Contoso Company 2010."
+msgstr ""
+

@@ -1,0 +1,35 @@
+# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Themes/TheThemeMachine/Theme.txt
+#| msgid "Author"
+msgid "jowall, mibach, loudej, heskew"
+msgstr ""
+
+#: ~/Themes/TheThemeMachine/Theme.txt
+#| msgid "Description"
+msgid "Orchard Theme Machine is a flexible multi-zone theme that provides a solid foundation to build your site. It features 20 collapsible widget zones and is flexible enough to cover a wide range of layouts."
+msgstr ""
+
+#: ~/Themes/TheThemeMachine/Theme.txt
+#| msgid "Tags"
+msgid "Awesome"
+msgstr ""
+
+#: ~/Themes/TheThemeMachine/Theme.txt
+#| msgid "Website"
+msgid "http://orchardproject.net"
+msgstr ""
+
+#: ~/Themes/TheThemeMachine/Views/BadgeOfHonor.cshtml
+#| msgid "&#169; The Theme Machine 2010."
+msgid "&#169; The Theme Machine 2010."
+msgstr ""
+
+#: ~/Themes/TheThemeMachine/Theme.txt
+#| msgid "Name"
+msgid "The Theme Machine"
+msgstr ""
+

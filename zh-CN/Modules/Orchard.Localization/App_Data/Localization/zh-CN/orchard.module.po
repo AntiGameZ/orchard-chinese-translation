@@ -1,0 +1,80 @@
+# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Localization/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr ""
+
+#: ~/Modules/Orchard.Localization/Module.txt
+#| msgid "Website"
+msgid "http://orchardproject.net"
+msgstr ""
+
+#: ~/Modules/Orchard.Localization/Module.txt
+#| msgid "Description"
+msgid "The localization module enables the localization of content items."
+msgstr ""
+
+#: Orchard.Localization.Controllers.AdminController
+#| msgid "Edited content item translation."
+msgid "Edited content item translation."
+msgstr ""
+
+#: Orchard.Localization.Controllers.AdminController
+#| msgid "Created content item translation."
+msgid "Created content item translation."
+msgstr ""
+
+#: ~/Modules/Orchard.Localization/Views/CultureSelection.cshtml
+#| msgid "Content Localization"
+msgid "Content Localization"
+msgstr ""
+
+#: ~/Modules/Orchard.Localization/Views/Admin/Translate.cshtml
+#| msgid "Translate Content"
+msgid "Translate Content"
+msgstr ""
+
+#: ~/Modules/Orchard.Localization/Views/EditorTemplates/Parts/Localization.ContentTranslations.Edit.cshtml
+#| msgid "Content Localization"
+msgid "Content Localization"
+msgstr ""
+
+#: ~/Modules/Orchard.Localization/Views/EditorTemplates/Parts/Localization.ContentTranslations.Edit.cshtml
+#| msgid "This is the <em>{0}</em> variation of {1}."
+msgid "This is the <em>{0}</em> variation of {1}."
+msgstr ""
+
+#: ~/Modules/Orchard.Localization/Views/EditorTemplates/Parts/Localization.ContentTranslations.Edit.cshtml
+#| msgid "Other translations:"
+msgid "Other translations:"
+msgstr ""
+
+#: ~/Modules/Orchard.Localization/Views/Parts/Localization.ContentTranslations.cshtml
+#| msgid "Translations:"
+msgid "Translations:"
+msgstr ""
+
+#: ~/Modules/Orchard.Localization/Views/Parts/Localization.ContentTranslations.Summary.cshtml
+#| msgid "Translations:"
+msgid "Translations:"
+msgstr ""
+
+#: ~/Modules/Orchard.Localization/Views/Parts/Localization.ContentTranslations.SummaryAdmin.cshtml
+#| msgid "Translations:"
+msgid "Translations:"
+msgstr ""
+
+#: ~/Modules/Orchard.Localization/Views/Parts/Localization.ContentTranslations.SummaryAdmin.cshtml
+#| msgid "+ New translation"
+msgid "+ New translation"
+msgstr ""
+
+#: ~/Modules/Orchard.Localization/Module.txt
+#| msgid "Name"
+msgid "Localization"
+msgstr ""
+

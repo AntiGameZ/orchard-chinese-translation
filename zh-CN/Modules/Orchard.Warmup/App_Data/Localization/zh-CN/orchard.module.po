@@ -1,0 +1,150 @@
+# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Warmup/Module.txt
+#| msgid "Name"
+msgid "Warmup"
+msgstr ""
+
+#: ~/Modules/Orchard.Warmup/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr ""
+
+#: ~/Modules/Orchard.Warmup/Module.txt
+#| msgid "Website"
+msgid "http://orchardproject.net"
+msgstr ""
+
+#: ~/Modules/Orchard.Warmup/Module.txt
+#| msgid "Description"
+msgid "Provides a mecanism to generate a static version of pages for being used during application warm up."
+msgstr ""
+
+#: Orchard.Warmup.AdminMenu
+#| msgid "Settings"
+msgid "Settings"
+msgstr ""
+
+#: Orchard.Warmup.AdminMenu
+#| msgid "Warmup"
+msgid "Warmup"
+msgstr ""
+
+#: Orchard.Warmup.Controllers.AdminController
+#| msgid "Not authorized to manage settings"
+msgid "Not authorized to manage settings"
+msgstr ""
+
+#: Orchard.Warmup.Controllers.AdminController
+#| msgid "{0} is an invalid warmup url."
+msgid "{0} is an invalid warmup url."
+msgstr ""
+
+#: Orchard.Warmup.Controllers.AdminController
+#| msgid "Delay must be greater than zero."
+msgid "Delay must be greater than zero."
+msgstr ""
+
+#: Orchard.Warmup.Controllers.AdminController
+#| msgid "Warmup updated successfully."
+msgid "Warmup updated successfully."
+msgstr ""
+
+#: Orchard.Warmup.Controllers.AdminController
+#| msgid "Static pages are currently being generated."
+msgid "Static pages are currently being generated."
+msgstr ""
+
+#: Orchard.Warmup.Services.SettingsBanner:
+#| msgid "The Warmup feature needs the <a href=\"{0}\">Base Url site setting</a> to be set."
+msgid "The Warmup feature needs the <a href=\"{0}\">Base Url site setting</a> to be set."
+msgstr ""
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "Settings"
+msgid "Settings"
+msgstr ""
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "Warmup"
+msgid "Warmup"
+msgstr ""
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "Urls for which static warmup pages will be generated"
+msgid "Urls for which static warmup pages will be generated"
+msgstr ""
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "This must be a set of relative paths, e.g., /, /About"
+msgid "This must be a set of relative paths, e.g., /, /About"
+msgstr ""
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "Generate warmup pages periodically"
+msgid "Generate warmup pages periodically"
+msgstr ""
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "Every"
+msgid "Every"
+msgstr ""
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "minutes"
+msgid "minutes"
+msgstr ""
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "Generate warmup pages each time some content is published"
+msgid "Generate warmup pages each time some content is published"
+msgstr ""
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "Save"
+msgid "Save"
+msgstr ""
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "Save and generate"
+msgid "Save and generate"
+msgstr ""
+
+#: ~/Modules/Orchard.Warmup/Views/EditorTemplates/Parts.Warmup.SiteSettings.cshtml
+#| msgid "Warmup"
+msgid "Warmup"
+msgstr ""
+
+#: ~/Modules/Orchard.Warmup/Views/EditorTemplates/Parts.Warmup.SiteSettings.cshtml
+#| msgid "Urls for which static warm up pages will be generated"
+msgid "Urls for which static warm up pages will be generated"
+msgstr ""
+
+#: ~/Modules/Orchard.Warmup/Views/EditorTemplates/Parts.Warmup.SiteSettings.cshtml
+#| msgid "This must be a set of virtual paths, e.g., ~/, ~/About"
+msgid "This must be a set of virtual paths, e.g., ~/, ~/About"
+msgstr ""
+
+#: ~/Modules/Orchard.Warmup/Views/EditorTemplates/Parts.Warmup.SiteSettings.cshtml
+#| msgid "Generate warmup pages periodically"
+msgid "Generate warmup pages periodically"
+msgstr ""
+
+#: ~/Modules/Orchard.Warmup/Views/EditorTemplates/Parts.Warmup.SiteSettings.cshtml
+#| msgid "Delay to generate pages"
+msgid "Delay to generate pages"
+msgstr ""
+
+#: ~/Modules/Orchard.Warmup/Views/EditorTemplates/Parts.Warmup.SiteSettings.cshtml
+#| msgid "minutes"
+msgid "minutes"
+msgstr ""
+
+#: ~/Modules/Orchard.Warmup/Views/EditorTemplates/Parts.Warmup.SiteSettings.cshtml
+#| msgid "Generate warmup pages each time some content is published"
+msgid "Generate warmup pages each time some content is published"
+msgstr ""
+

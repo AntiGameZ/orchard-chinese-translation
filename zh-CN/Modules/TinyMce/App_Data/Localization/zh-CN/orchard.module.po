@@ -1,0 +1,30 @@
+# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/TinyMce/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr ""
+
+#: ~/Modules/TinyMce/Module.txt
+#| msgid "Website"
+msgid "http://orchardproject.net"
+msgstr ""
+
+#: ~/Modules/TinyMce/Module.txt
+#| msgid "Description"
+msgid "The TinyMCE module enables rich text contents to be created using a "What You See Is What You Get" user interface."
+msgstr ""
+
+#: ~/Modules/TinyMce/Module.txt
+#| msgid "Name"
+msgid "TinyMce"
+msgstr ""
+
+#: ~/Modules/TinyMce/Views/Body-Html.Editor.cshtml
+#| msgid "Insert/Update Media"
+msgid "Insert/Update Media"
+msgstr ""
+
