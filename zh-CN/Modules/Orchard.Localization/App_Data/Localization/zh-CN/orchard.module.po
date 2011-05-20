@@ -6,75 +6,75 @@
 #: ~/Modules/Orchard.Localization/Module.txt
 #| msgid "Author"
 msgid "The Orchard Team"
-msgstr ""
+msgstr "Orchard 团队"
 
 #: ~/Modules/Orchard.Localization/Module.txt
 #| msgid "Website"
 msgid "http://orchardproject.net"
-msgstr ""
+msgstr "http://orchardproject.net"
 
 #: ~/Modules/Orchard.Localization/Module.txt
 #| msgid "Description"
 msgid "The localization module enables the localization of content items."
-msgstr ""
+msgstr "本地化模块提供对内容项目的本地化。"
 
 #: Orchard.Localization.Controllers.AdminController
 #| msgid "Edited content item translation."
 msgid "Edited content item translation."
-msgstr ""
+msgstr "编辑内容项目的翻译。"
 
 #: Orchard.Localization.Controllers.AdminController
 #| msgid "Created content item translation."
 msgid "Created content item translation."
-msgstr ""
+msgstr "创建内容项目的翻译。"
 
 #: ~/Modules/Orchard.Localization/Views/CultureSelection.cshtml
 #| msgid "Content Localization"
 msgid "Content Localization"
-msgstr ""
+msgstr "内容本地化"
 
 #: ~/Modules/Orchard.Localization/Views/Admin/Translate.cshtml
 #| msgid "Translate Content"
 msgid "Translate Content"
-msgstr ""
+msgstr "翻译内容"
 
 #: ~/Modules/Orchard.Localization/Views/EditorTemplates/Parts/Localization.ContentTranslations.Edit.cshtml
 #| msgid "Content Localization"
 msgid "Content Localization"
-msgstr ""
+msgstr "内容本地化"
 
 #: ~/Modules/Orchard.Localization/Views/EditorTemplates/Parts/Localization.ContentTranslations.Edit.cshtml
 #| msgid "This is the <em>{0}</em> variation of {1}."
 msgid "This is the <em>{0}</em> variation of {1}."
-msgstr ""
+msgstr "这是{1}的第<em>{0}</em>次变动。"
 
 #: ~/Modules/Orchard.Localization/Views/EditorTemplates/Parts/Localization.ContentTranslations.Edit.cshtml
 #| msgid "Other translations:"
 msgid "Other translations:"
-msgstr ""
+msgstr "其他语言翻译："
 
 #: ~/Modules/Orchard.Localization/Views/Parts/Localization.ContentTranslations.cshtml
 #| msgid "Translations:"
 msgid "Translations:"
-msgstr ""
+msgstr "翻译："
 
 #: ~/Modules/Orchard.Localization/Views/Parts/Localization.ContentTranslations.Summary.cshtml
 #| msgid "Translations:"
 msgid "Translations:"
-msgstr ""
+msgstr "翻译："
 
 #: ~/Modules/Orchard.Localization/Views/Parts/Localization.ContentTranslations.SummaryAdmin.cshtml
 #| msgid "Translations:"
 msgid "Translations:"
-msgstr ""
+msgstr "翻译："
 
 #: ~/Modules/Orchard.Localization/Views/Parts/Localization.ContentTranslations.SummaryAdmin.cshtml
 #| msgid "+ New translation"
 msgid "+ New translation"
-msgstr ""
+msgstr "+ 新建翻译"
 
 #: ~/Modules/Orchard.Localization/Module.txt
 #| msgid "Name"
 msgid "Localization"
-msgstr ""
+msgstr "本地化"
 
