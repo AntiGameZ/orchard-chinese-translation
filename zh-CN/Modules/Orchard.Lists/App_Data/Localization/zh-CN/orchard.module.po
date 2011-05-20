@@ -6,250 +6,250 @@
 #: ~/Modules/Orchard.Lists/Module.txt
 #| msgid "Author"
 msgid "The Orchard Team"
-msgstr ""
+msgstr "Orchard 团队"
 
 #: ~/Modules/Orchard.Lists/Module.txt
 #| msgid "Website"
 msgid "http://orchardproject.net"
-msgstr ""
+msgstr "http://orchardproject.net"
 
 #: ~/Modules/Orchard.Lists/Module.txt
 #| msgid "Description"
 msgid "Introduces a preconfigured container-enabled content type."
-msgstr ""
+msgstr "引入预配置的容器内容类型"
 
 #: ~/Modules/Orchard.Lists/Module.txt
 #| msgid "Name"
 msgid "Lists"
-msgstr ""
+msgstr "列表"
 
 #: Lists.Controllers.AdminController
 #| msgid "Please select the list to move the items to."
 msgid "Please select the list to move the items to."
-msgstr ""
+msgstr "请选择项目要移动到的列表。"
 
 #: Lists.Controllers.AdminController
 #| msgid "Couldn't move selected content."
 msgid "Couldn't move selected content."
-msgstr ""
+msgstr "无法移动选中内容。"
 
 #: Lists.Controllers.AdminController
 #| msgid "One or more items could not be moved to '{0}' because it is restricted to containing items of type '{1}'."
 msgid "One or more items could not be moved to '{0}' because it is restricted to containing items of type '{1}'."
-msgstr ""
+msgstr "一个或多个项目无法移动到‘{0}’，列表只能包含类型为‘{1}’的项目。"
 
 #: Lists.Controllers.AdminController
 #| msgid "Couldn't remove selected content from the list."
 msgid "Couldn't remove selected content from the list."
-msgstr ""
+msgstr "无法从列表中移除选择的项目。"
 
 #: Lists.Controllers.AdminController
 #| msgid "Content successfully removed from the list."
 msgid "Content successfully removed from the list."
-msgstr ""
+msgstr "项目已从列表中移除。"
 
 #: Lists.Controllers.AdminController
 #| msgid "Couldn't remove selected content."
 msgid "Couldn't remove selected content."
-msgstr ""
+msgstr "无法移除选中内容。"
 
 #: Lists.Controllers.AdminController
 #| msgid "Content successfully removed."
 msgid "Content successfully removed."
-msgstr ""
+msgstr "内容成功移除。"
 
 #: Lists.Controllers.AdminController
 #| msgid "Couldn't unpublish selected content."
 msgid "Couldn't unpublish selected content."
-msgstr ""
+msgstr "无法取消发布选中内容。"
 
 #: Lists.Controllers.AdminController
 #| msgid "Content successfully unpublished."
 msgid "Content successfully unpublished."
-msgstr ""
+msgstr "内容已取消发布。"
 
 #: Lists.Controllers.AdminController
 #| msgid "Couldn't publish selected content."
 msgid "Couldn't publish selected content."
-msgstr ""
+msgstr "无法发布选中内容。"
 
 #: Lists.Controllers.AdminController
 #| msgid "Content successfully published."
 msgid "Content successfully published."
-msgstr ""
+msgstr "内容已发布。"
 
 #: ~/Modules/Orchard.Lists/Views/Parts.Container.Contained.SummaryAdmin.cshtml
 #| msgid "Contained Items"
 msgid "Contained Items"
-msgstr ""
+msgstr "包含项目。"
 
 #: ~/Modules/Orchard.Lists/Views/Parts.Container.Contained.SummaryAdmin.cshtml
 #| msgid " | "
 msgid " | "
-msgstr ""
+msgstr " | "
 
 #: ~/Modules/Orchard.Lists/Views/Parts.Container.Manage.cshtml
 #| msgid "{0} Properties"
 msgid "{0} Properties"
-msgstr ""
+msgstr "{0}个属性"
 
 #: ~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml
 #| msgid "Choose Items"
 msgid "Choose Items"
-msgstr ""
+msgstr "选择项目"
 
 #: ~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml
 #| msgid "Move to {0}"
 msgid "Move to {0}"
-msgstr ""
+msgstr "移动到{0}"
 
 #: ~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml
 #| msgid "No list"
 msgid "No list"
-msgstr ""
+msgstr "没有列表"
 
 #: ~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml
 #| msgid "Show"
 msgid "Show"
-msgstr ""
+msgstr "显示"
 
 #: ~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml
 #| msgid "any (show all)"
 msgid "any (show all)"
-msgstr ""
+msgstr "任意（显示所有）"
 
 #: ~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml
 #| msgid "from"
 msgid "from"
-msgstr ""
+msgstr "来自"
 
 #: ~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml
 #| msgid "Ordered by"
 msgid "Ordered by"
-msgstr ""
+msgstr "排序依据"
 
 #: ~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml
 #| msgid "recently created"
 msgid "recently created"
-msgstr ""
+msgstr "最近创建"
 
 #: ~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml
 #| msgid "recently modified"
 msgid "recently modified"
-msgstr ""
+msgstr "最近修改"
 
 #: ~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml
 #| msgid "recently published"
 msgid "recently published"
-msgstr ""
+msgstr "最近发布"
 
 #: ~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml
 #| msgid "Apply"
 msgid "Apply"
-msgstr ""
+msgstr "应用"
 
 #: ~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml
 #| msgid "There are no content items."
 msgid "There are no content items."
-msgstr ""
+msgstr "没有内容项目"
 
 #: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
 #| msgid "Create New Content"
 msgid "Create New Content"
-msgstr ""
+msgstr "新建内容"
 
 #: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
 #| msgid "Create New {0}"
 msgid "Create New {0}"
-msgstr ""
+msgstr "创建新{0}"
 
 #: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
 #| msgid "Manage {0}"
 msgid "Manage {0}"
-msgstr ""
+msgstr "管理{0}"
 
 #: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
 #| msgid "Move to..."
 msgid "Move to..."
-msgstr ""
+msgstr "移动到……"
 
 #: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
 #| msgid "Choose Items"
 msgid "Choose Items"
-msgstr ""
+msgstr "选择项目"
 
 #: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
 #| msgid "Actions:"
 msgid "Actions:"
-msgstr ""
+msgstr "操作："
 
 #: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
 #| msgid "Choose action..."
 msgid "Choose action..."
-msgstr ""
+msgstr "选择操作……"
 
 #: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
 #| msgid "Publish Now"
 msgid "Publish Now"
-msgstr ""
+msgstr "立即发布"
 
 #: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
 #| msgid "Unpublish"
 msgid "Unpublish"
-msgstr ""
+msgstr "取消发布"
 
 #: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
 #| msgid "Delete"
 msgid "Delete"
-msgstr ""
+msgstr "删除"
 
 #: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
 #| msgid "Remove from List"
 msgid "Remove from List"
-msgstr ""
+msgstr "从列表移除"
 
 #: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
 #| msgid "Move to List..."
 msgid "Move to List..."
-msgstr ""
+msgstr "移动到列表……"
 
 #: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
 #| msgid "Apply"
 msgid "Apply"
-msgstr ""
+msgstr "应用"
 
 #: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
 #| msgid "Show"
 msgid "Show"
-msgstr ""
+msgstr "显示"
 
 #: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
 #| msgid "any (show all)"
 msgid "any (show all)"
-msgstr ""
+msgstr "任意（显示所有）"
 
 #: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
 #| msgid "Ordered by"
 msgid "Ordered by"
-msgstr ""
+msgstr "排序依据"
 
 #: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
 #| msgid "recently created"
 msgid "recently created"
-msgstr ""
+msgstr "最近创建"
 
 #: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
 #| msgid "recently modified"
 msgid "recently modified"
-msgstr ""
+msgstr "最近修改"
 
 #: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
 #| msgid "recently published"
 msgid "recently published"
-msgstr ""
+msgstr "最近发布"
 
 #: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
 #| msgid "The '{0}' {1} has no content items."
 msgid "The '{0}' {1} has no content items."
-msgstr ""
+msgstr "‘{0}’ {1}未包含内容项目。"
 
